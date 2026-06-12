@@ -1,0 +1,41 @@
+export const countries = [
+  { code: 'jp', name: 'Japan', flag: '🇯🇵', language: 'ja', continent: 'Asia' },
+  { code: 'fr', name: 'France', flag: '🇫🇷', language: 'fr', continent: 'Europe' },
+  { code: 'de', name: 'Germany', flag: '🇩🇪', language: 'de', continent: 'Europe' },
+  { code: 'es', name: 'Spain', flag: '🇪🇸', language: 'es', continent: 'Europe' },
+  { code: 'it', name: 'Italy', flag: '🇮🇹', language: 'it', continent: 'Europe' },
+  { code: 'pt', name: 'Portugal', flag: '🇵🇹', language: 'pt', continent: 'Europe' },
+  { code: 'us', name: 'United States', flag: '🇺🇸', language: 'en', continent: 'North America' },
+  { code: 'gb', name: 'United Kingdom', flag: '🇬🇧', language: 'en', continent: 'Europe' },
+  { code: 'ca', name: 'Canada', flag: '🇨🇦', language: 'en', continent: 'North America' },
+  { code: 'au', name: 'Australia', flag: '🇦🇺', language: 'en', continent: 'Oceania' },
+  { code: 'ru', name: 'Russia', flag: '🇷🇺', language: 'ru', continent: 'Europe/Asia' },
+  { code: 'cn', name: 'China', flag: '🇨🇳', language: 'zh', continent: 'Asia' },
+  { code: 'kr', name: 'South Korea', flag: '🇰🇷', language: 'ko', continent: 'Asia' },
+  { code: 'th', name: 'Thailand', flag: '🇹🇭', language: 'th', continent: 'Asia' },
+  { code: 'vn', name: 'Vietnam', flag: '🇻🇳', language: 'vi', continent: 'Asia' },
+  { code: 'id', name: 'Indonesia', flag: '🇮🇩', language: 'id', continent: 'Asia' },
+  { code: 'ma', name: 'Morocco', flag: '🇲🇦', language: 'ar', continent: 'Africa' },
+  { code: 'eg', name: 'Egypt', flag: '🇪🇬', language: 'ar', continent: 'Africa' },
+  { code: 'za', name: 'South Africa', flag: '🇿🇦', language: 'af', continent: 'Africa' },
+  { code: 'br', name: 'Brazil', flag: '🇧🇷', language: 'pt', continent: 'South America' },
+  { code: 'ar', name: 'Argentina', flag: '🇦🇷', language: 'es', continent: 'South America' },
+  { code: 'mx', name: 'Mexico', flag: '🇲🇽', language: 'es', continent: 'North America' },
+  { code: 'tr', name: 'Turkey', flag: '🇹🇷', language: 'tr', continent: 'Europe/Asia' },
+  { code: 'nl', name: 'Netherlands', flag: '🇳🇱', language: 'nl', continent: 'Europe' },
+  { code: 'se', name: 'Sweden', flag: '🇸🇪', language: 'sv', continent: 'Europe' },
+  { code: 'no', name: 'Norway', flag: '🇳🇴', language: 'no', continent: 'Europe' },
+  { code: 'dk', name: 'Denmark', flag: '🇩🇰', language: 'da', continent: 'Europe' },
+  { code: 'fi', name: 'Finland', flag: '🇫🇮', language: 'fi', continent: 'Europe' },
+  { code: 'pl', name: 'Poland', flag: '🇵🇱', language: 'pl', continent: 'Europe' },
+  { code: 'gr', name: 'Greece', flag: '🇬🇷', language: 'el', continent: 'Europe' }
+];
+
+export const popularCountries = [
+  { code: 'jp', name: 'Japan', flag: '🇯🇵', language: 'ja' },
+  { code: 'fr', name: 'France', flag: '🇫🇷', language: 'fr' },
+  { code: 'it', name: 'Italy', flag: '🇮🇹', language: 'it' },
+  { code: 'th', name: 'Thailand', flag: '🇹🇭', language: 'th' },
+  { code: 'es', name: 'Spain', flag: '🇪🇸', language: 'es' },
+  { code: 'us', name: 'USA', flag: '🇺🇸', language: 'en' }
+];
