@@ -1,123 +1,90 @@
-import axios from 'axios';
+// Base backend URL (Render)
+const API_BASE = "https://codealpha-tasks-1-v3ep.onrender.com";
 
-// Using LibreTranslate API (free, no API key required)
-const API_URL = 'https://libretranslate.com';
-
-export const translateText = async (
-  text,
-  sourceLang,
-  targetLang
-) => {
-  const response = await fetch(
-  "https://codealpha-tasks-1-v3ep.onrender.com/translate",
-    {
+/**
+ * Translate text
+ */
+export const translateText = async (text, sourceLang, targetLang) => {
+  try {
+    const response = await fetch(`${API_BASE}/translate`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
       },
       body: JSON.stringify({
         text,
-        sourceLang,
         targetLang
       })
+    });
+
+    const data = await response.json();
+
+    if (!response.ok) {
+      throw new Error(data.error || "Translation failed");
     }
-  );
 
-  const data = await response.json();
-
-  return data.translatedText;
+    return data.translatedText;
+  } catch (err) {
+    console.error("Translate error:", err);
+    return "Translation failed";
+  }
 };
 
-export const speakText = async (
-  text,
-  language
-) => {
-
-  const response = await fetch(
-    "https://codealpha-tasks-1-v3ep.onrender.com/speak",
-    {
+/**
+ * Speech synthesis
+ */
+export const speakText = async (text, language) => {
+  try {
+    const response = await fetch(`${API_BASE}/speak`, {
       method: "POST",
-
       headers: {
-        "Content-Type":
-          "application/json"
+        "Content-Type": "application/json"
       },
-
       body: JSON.stringify({
         text,
         language
       })
+    });
+
+    if (!response.ok) {
+      throw new Error("Speech request failed");
     }
-  );
 
-  const blob =
-  await response.blob();
+    const blob = await response.blob();
 
-console.log(
-  "AUDIO SIZE:",
-  blob.size
-);
+    console.log("AUDIO SIZE:", blob.size);
 
-const audioUrl =
-  URL.createObjectURL(blob);
+    const audioUrl = URL.createObjectURL(blob);
+    const audio = new Audio(audioUrl);
 
-const audio =
-  new Audio(audioUrl);
-
-await audio.play();
-};
-
-export const detectLanguage = async (text) => {
-  try {
-
-    const response = await fetch(
-      "https://codealpha-tasks-1-v3ep.onrender.com/detect",
-      {
-        method: "POST",
-
-        headers: {
-          "Content-Type":
-            "application/json"
-        },
-
-        body: JSON.stringify({
-          text
-        })
-      }
-    );
-
-    const data = await response.json();
-
-    return data.language;
-
+    await audio.play();
   } catch (err) {
-
-    console.error(err);
-
-    return "en";
+    console.error("Speech error:", err);
   }
 };
 
-// Mock translation for demo/fallback
-const mockTranslate = (text, targetLang) => {
-  const mockResponses = {
-    'es': `🇪🇸 ${text} (Spanish)`,
-    'fr': `🇫🇷 ${text} (French)`,
-    'de': `🇩🇪 ${text} (German)`,
-    'ja': `🇯🇵 ${text} (Japanese)`,
-    'ko': `🇰🇷 ${text} (Korean)`,
-    'zh': `🇨🇳 ${text} (Chinese)`,
-    'it': `🇮🇹 ${text} (Italian)`,
-    'pt': `🇵🇹 ${text} (Portuguese)`,
-    'ru': `🇷🇺 ${text} (Russian)`,
-    'ar': `🇸🇦 ${text} (Arabic)`,
-    'hi': `🇮🇳 ${text} (Hindi)`,
-    'th': `🇹🇭 ${text} (Thai)`,
-    'vi': `🇻🇳 ${text} (Vietnamese)`,
-    'tr': `🇹🇷 ${text} (Turkish)`,
-    'nl': `🇳🇱 ${text} (Dutch)`,
-    'el': `🇬🇷 ${text} (Greek)`
-  };
-  
-  return mockResponses[targetLang] || `[${targetLang}] ${text}`;
+/**
+ * Detect language
+ */
+export const detectLanguage = async (text) => {
+  try {
+    const response = await fetch(`${API_BASE}/detect`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({ text })
+    });
+
+    const data = await response.json();
+
+    if (!response.ok) {
+      throw new Error(data.error || "Detection failed");
+    }
+
+    return data.language;
+  } catch (err) {
+    console.error("Detect error:", err);
+    return "en";
+  }
 };
