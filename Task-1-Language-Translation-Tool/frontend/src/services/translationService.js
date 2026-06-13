@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Using LibreTranslate API (free, no API key required)
-const API_URL = 'https://libretranslate.com';
+const API_URL = 'https://codealpha-tasks-1-v3ep.onrender.com';
 
 export const translateText = async (
   text,
