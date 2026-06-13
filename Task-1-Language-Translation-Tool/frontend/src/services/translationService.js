@@ -9,7 +9,7 @@ export const translateText = async (
   targetLang
 ) => {
   const response = await fetch(
-    "http://localhost:5000/translate",
+  "https://codealpha-tasks-1-v3ep.onrender.com/translate",
     {
       method: "POST",
       headers: {
@@ -34,7 +34,7 @@ export const speakText = async (
 ) => {
 
   const response = await fetch(
-    "http://localhost:5000/speak",
+    "https://codealpha-tasks-1-v3ep.onrender.com/speak",
     {
       method: "POST",
 
@@ -71,7 +71,7 @@ export const detectLanguage = async (text) => {
   try {
 
     const response = await fetch(
-      "http://localhost:5000/detect",
+      "https://codealpha-tasks-1-v3ep.onrender.com/detect",
       {
         method: "POST",
 
