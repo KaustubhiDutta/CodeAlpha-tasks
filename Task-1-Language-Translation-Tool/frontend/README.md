@@ -202,17 +202,13 @@ Planned enhancements include:
 
 ## 🔗 Live Demo
 
-```text
-[https://your-live-demo-link.com](https://code-alpha-tasks-2.vercel.app/)
-```
+https://code-alpha-tasks-2.vercel.app/
 
 ---
 
 ## 💻 GitHub Repository
 
-```text
 https://github.com/KaustubhiDutta/CodeAlpha-tasks
-```
 
 ---
 
