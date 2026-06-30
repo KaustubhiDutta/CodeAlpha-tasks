@@ -29,6 +29,9 @@ import { IconContainer, getToolIcon } from '../utils/iconMap.jsx';
 // MODE CONFIGURATIONS
 // ============================================================
 
+const API_URL =
+  import.meta.env.VITE_API_URL || "http://localhost:5000";
+
 const MODE_CONFIGS = {
   home: {
     id: 'home',
@@ -1237,7 +1240,7 @@ export default function NeuralChatbot({
     setConfidence(null);
 
     try {
-      const response = await axios.post('http://localhost:5000/api/faq/query', { 
+      const response = await axios.post(`${API_URL}/api/faq/query`, {
         query: trimmedInput,
         topic: selectedTopic,
         mode: currentMode,
