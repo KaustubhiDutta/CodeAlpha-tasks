@@ -1,0 +1,106 @@
+[
+  {
+    "id": 251,
+    "question": "Best AI tools for content writing?",
+    "aliases": ["ai content writing", "best writing ai", "content creation ai", "ai for writers"],
+    "category": "Writing Tools",
+    "tags": ["content writing", "writing", "blogs", "copywriting"],
+    "answer": "Best AI tools for content writing: 1) ChatGPT - versatile writing assistant, 2) Claude - creative and analytical writing, 3) Jasper - marketing copy, 4) Copy.ai - quick content generation, 5) Writesonic - long-form content, 6) Rytr - affordable writing, 7) Notion AI - integrated writing, 8) Grammarly - editing and proofreading. These tools help with blogs, articles, marketing content, and creative writing.",
+    "toolLinks": [
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Versatile writing", "bestFor": "General writing" },
+      { "name": "Jasper", "url": "https://www.jasper.ai", "icon": "📝", "description": "Marketing copy", "bestFor": "Marketers" },
+      { "name": "Copy.ai", "url": "https://www.copy.ai", "icon": "✍️", "description": "Quick content", "bestFor": "Content creators" }
+    ]
+  },
+  {
+    "id": 252,
+    "question": "Best AI tools for blogs?",
+    "aliases": ["ai for blogging", "blog writing ai", "best blog ai", "ai blog writer"],
+    "category": "Writing Tools",
+    "tags": ["blogs", "blogging", "content", "SEO"],
+    "answer": "Best AI tools for blogging: 1) ChatGPT - blog outlines and drafts, 2) Claude - research and writing, 3) Jasper - SEO-optimized content, 4) Writesonic - long-form blogs, 5) Surfer SEO - optimization, 6) Grammarly - editing, 7) Notion AI - content planning, 8) Rytr - affordable blogging. These tools help with brainstorming, writing, editing, and optimizing blog content.",
+    "toolLinks": [
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Blog outlines", "bestFor": "Bloggers" },
+      { "name": "Surfer SEO", "url": "https://surferseo.com", "icon": "🌊", "description": "SEO optimization", "bestFor": "SEO" },
+      { "name": "Grammarly", "url": "https://www.grammarly.com", "icon": "✅", "description": "Editing", "bestFor": "Editing" }
+    ]
+  },
+  {
+    "id": 253,
+    "question": "Best AI tools for copywriting?",
+    "aliases": ["copywriting ai", "ai copywriter", "best copywriting tools", "marketing copy ai"],
+    "category": "Writing Tools",
+    "tags": ["copywriting", "marketing", "sales copy", "ads"],
+    "answer": "Best AI tools for copywriting: 1) Jasper AI - best for marketing copy, 2) Copy.ai - templates and quick copy, 3) ChatGPT - versatile copywriting, 4) Claude - nuanced brand voice, 5) Writesonic - conversion copy, 6) Rytr - affordable copywriting, 7) AdCreative.ai - ad copy, 8) Grammarly - copy editing. These tools help with ads, landing pages, email campaigns, and sales copy.",
+    "toolLinks": [
+      { "name": "Jasper", "url": "https://www.jasper.ai", "icon": "📝", "description": "Marketing copy", "bestFor": "Copywriting" },
+      { "name": "Copy.ai", "url": "https://www.copy.ai", "icon": "✍️", "description": "Quick templates", "bestFor": "Quick copy" },
+      { "name": "AdCreative.ai", "url": "https://adcreative.ai", "icon": "🎯", "description": "Ad copy", "bestFor": "Advertising" }
+    ]
+  },
+  {
+    "id": 254,
+    "question": "Best AI tools for email writing?",
+    "aliases": ["email ai", "ai email writer", "best email writing tools", "ai for emails"],
+    "category": "Writing Tools",
+    "tags": ["email writing", "marketing emails", "newsletter"],
+    "answer": "Best AI tools for email writing: 1) ChatGPT - email drafts, 2) Jasper - marketing emails, 3) Copy.ai - email templates, 4) Claude - professional emails, 5) Grammarly - email editing, 6) HubSpot AI - email automation, 7) Notion AI - email planning, 8) Rytr - email copy. These tools help with cold emails, newsletters, follow-ups, and marketing campaigns.",
+    "toolLinks": [
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Email drafts", "bestFor": "General emails" },
+      { "name": "Jasper", "url": "https://www.jasper.ai", "icon": "📝", "description": "Marketing emails", "bestFor": "Marketers" },
+      { "name": "HubSpot AI", "url": "https://www.hubspot.com/ai-tools", "icon": "🏢", "description": "Email automation", "bestFor": "Businesses" }
+    ]
+  },
+  {
+    "id": 255,
+    "question": "Best AI tools for resume creation?",
+    "aliases": ["resume ai", "ai resume builder", "best resume tools", "cv ai"],
+    "category": "Writing Tools",
+    "tags": ["resume", "CV", "job search", "career"],
+    "answer": "Best AI tools for resume creation: 1) Kickresume - AI resume builder, 2) Rezi - AI-powered resumes, 3) Resume.io - ATS-friendly resumes, 4) ChatGPT - resume content generation, 5) Grammarly - resume editing, 6) Claude - resume optimization, 7) Zety - AI resume suggestions, 8) Teal - job-specific resumes. These tools help create professional, ATS-optimized resumes.",
+    "toolLinks": [
+      { "name": "Kickresume", "url": "https://kickresume.com", "icon": "📄", "description": "AI resume builder", "bestFor": "Job seekers" },
+      { "name": "Rezi", "url": "https://rezi.ai", "icon": "✍️", "description": "AI-powered resumes", "bestFor": "Career" },
+      { "name": "Resume.io", "url": "https://resume.io", "icon": "📋", "description": "ATS-friendly", "bestFor": "Applications" }
+    ]
+  },
+  {
+    "id": 256,
+    "question": "Best AI tools for LinkedIn posts?",
+    "aliases": ["linkedin ai", "ai linkedin posts", "best linkedin tools", "professional content ai"],
+    "category": "Writing Tools",
+    "tags": ["linkedin", "social media", "professional", "networking"],
+    "answer": "Best AI tools for LinkedIn posts: 1) ChatGPT - post ideas and drafts, 2) Jasper - professional content, 3) Copy.ai - quick posts, 4) Claude - thoughtful content, 5) Grammarly - post editing, 6) Taplio - LinkedIn content, 7) Buffer AI - scheduling, 8) Notion AI - content planning. These tools help create engaging LinkedIn posts and grow your professional network.",
+    "toolLinks": [
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Post drafts", "bestFor": "Professionals" },
+      { "name": "Taplio", "url": "https://taplio.com", "icon": "📱", "description": "LinkedIn content", "bestFor": "Content creators" },
+      { "name": "Buffer AI", "url": "https://buffer.com", "icon": "📊", "description": "Scheduling", "bestFor": "Social media" }
+    ]
+  },
+  {
+    "id": 257,
+    "question": "Best AI tools for storytelling?",
+    "aliases": ["storytelling ai", "ai story writer", "creative writing ai", "fiction ai"],
+    "category": "Writing Tools",
+    "tags": ["storytelling", "creative writing", "fiction", "novels"],
+    "answer": "Best AI tools for storytelling: 1) Sudowrite - creative writing, 2) NovelAI - story generation, 3) Claude - nuanced storytelling, 4) ChatGPT - story ideas, 5) Jasper - plot development, 6) Writesonic - story outlines, 7) Notion AI - story planning, 8) Rytr - quick stories. These tools help with character development, plot creation, and world-building.",
+    "toolLinks": [
+      { "name": "Sudowrite", "url": "https://www.sudowrite.com", "icon": "📖", "description": "Creative writing", "bestFor": "Authors" },
+      { "name": "NovelAI", "url": "https://novelai.net", "icon": "📚", "description": "Story generation", "bestFor": "Storytellers" },
+      { "name": "Claude", "url": "https://www.anthropic.com/claude", "icon": "🧠", "description": "Nuanced storytelling", "bestFor": "Creative writing" }
+    ]
+  },
+  {
+    "id": 258,
+    "question": "Best AI tools for script writing?",
+    "aliases": ["scriptwriting ai", "screenplay ai", "dialogue ai", "film script ai"],
+    "category": "Writing Tools",
+    "tags": ["scriptwriting", "screenplay", "dialogue", "films"],
+    "answer": "Best AI tools for script writing: 1) Sudowrite - dialogue and scenes, 2) NovelAI - script generation, 3) Claude - character development, 4) ChatGPT - script outlines, 5) Jasper - script drafts, 6) Writesonic - scene ideas, 7) Notion AI - script planning, 8) Rytr - quick scripts. These tools help screenwriters and content creators write compelling scripts.",
+    "toolLinks": [
+      { "name": "Sudowrite", "url": "https://www.sudowrite.com", "icon": "📖", "description": "Dialogue and scenes", "bestFor": "Screenwriters" },
+      { "name": "NovelAI", "url": "https://novelai.net", "icon": "📚", "description": "Script generation", "bestFor": "Scriptwriters" },
+      { "name": "Claude", "url": "https://www.anthropic.com/claude", "icon": "🧠", "description": "Character development", "bestFor": "Creative writing" }
+    ]
+  }
+]

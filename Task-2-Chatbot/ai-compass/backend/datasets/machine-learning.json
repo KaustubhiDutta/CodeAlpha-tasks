@@ -1,0 +1,113 @@
+[
+  {
+    "id": "ml-1",
+    "question": "What is Machine Learning?",
+    "aliases": ["what is ml", "machine learning definition", "define machine learning", "ml meaning", "explain machine learning"],
+    "category": "Machine Learning",
+    "tags": ["machine learning", "ml", "definition", "basics"],
+    "answer": "Machine Learning is a subset of AI that enables systems to learn and improve from experience without being explicitly programmed. It uses algorithms to parse data, learn from it, and make predictions or decisions. ML algorithms build mathematical models based on training data to make predictions or decisions without being explicitly programmed to perform the task.",
+    "toolLinks": [
+      { "name": "Scikit-learn", "url": "https://scikit-learn.org", "icon": "📊", "description": "Python ML library", "bestFor": "Beginners" },
+      { "name": "TensorFlow", "url": "https://www.tensorflow.org", "icon": "🧮", "description": "Open-source ML framework", "bestFor": "Advanced" }
+    ]
+  },
+  {
+    "id": "ml-2",
+    "question": "What are the types of Machine Learning?",
+    "aliases": ["types of ml", "ml types", "categories of ml", "kinds of machine learning"],
+    "category": "Machine Learning",
+    "tags": ["types", "classification", "supervised", "unsupervised", "reinforcement"],
+    "answer": "The three main types of Machine Learning are: 1) Supervised Learning - Learning from labeled data where the desired output is known. Includes classification and regression. 2) Unsupervised Learning - Finding patterns in unlabeled data. Includes clustering and dimensionality reduction. 3) Reinforcement Learning - Learning through trial and error to maximize rewards. The agent learns optimal actions through interaction with the environment.",
+    "toolLinks": []
+  },
+  {
+    "id": "ml-3",
+    "question": "What is supervised learning?",
+    "aliases": ["supervised learning", "what is supervised learning", "supervised ml", "labeled data learning"],
+    "category": "Machine Learning",
+    "tags": ["supervised learning", "classification", "regression"],
+    "answer": "Supervised learning is a type of ML where the algorithm learns from labeled training data, meaning each example in the training set has a known output. The algorithm learns a mapping from input to output, and then uses this to predict outputs for new inputs. Common applications include: Classification (spam detection, image recognition) and Regression (price prediction, weather forecasting).",
+    "toolLinks": []
+  },
+  {
+    "id": "ml-4",
+    "question": "What is unsupervised learning?",
+    "aliases": ["unsupervised learning", "what is unsupervised learning", "unsupervised ml", "unlabeled data learning"],
+    "category": "Machine Learning",
+    "tags": ["unsupervised learning", "clustering", "dimensionality reduction"],
+    "answer": "Unsupervised learning is a type of ML where the algorithm learns from unlabeled data, meaning the training data has no known outputs. The algorithm must find patterns, relationships, or structures in the data on its own. Common techniques include: Clustering (grouping similar data points), Dimensionality Reduction (reducing the number of features), and Association Rule Learning (finding relationships between variables).",
+    "toolLinks": []
+  },
+  {
+    "id": "ml-5",
+    "question": "What is reinforcement learning?",
+    "aliases": ["reinforcement learning", "what is rl", "rl learning", "trial and error learning"],
+    "category": "Machine Learning",
+    "tags": ["reinforcement learning", "rl", "agent", "reward"],
+    "answer": "Reinforcement Learning is a type of ML where an agent learns to make decisions by interacting with an environment. The agent takes actions and receives rewards or penalties, learning the optimal behavior through trial and error. Key concepts include: Agent, Environment, State, Action, Reward, and Policy. Applications include: Robotics, Game AI, Autonomous Vehicles, and Resource Management.",
+    "toolLinks": []
+  },
+  {
+    "id": "ml-6",
+    "question": "What are the common ML algorithms?",
+    "aliases": ["ml algorithms", "common ml algorithms", "popular ml algorithms", "machine learning algorithms list"],
+    "category": "Machine Learning",
+    "tags": ["algorithms", "list", "popular"],
+    "answer": "Common ML algorithms include: Linear Regression, Logistic Regression, Decision Trees, Random Forest, Support Vector Machines (SVM), K-Nearest Neighbors (KNN), Naive Bayes, K-Means Clustering, Principal Component Analysis (PCA), Neural Networks, Gradient Boosting (XGBoost, LightGBM), and Deep Learning models like CNNs and RNNs.",
+    "toolLinks": []
+  },
+  {
+    "id": "ml-7",
+    "question": "What is overfitting in ML?",
+    "aliases": ["overfitting", "what is overfitting", "ml overfitting", "overfitting explained"],
+    "category": "Machine Learning",
+    "tags": ["overfitting", "bias-variance", "regularization"],
+    "answer": "Overfitting occurs when a machine learning model learns the training data too well, capturing noise and patterns that don't generalize to new data. The model performs well on training data but poorly on test data. To prevent overfitting, techniques include: Cross-validation, Regularization (L1/L2), Early stopping, Dropout, Feature selection, and Using more training data.",
+    "toolLinks": []
+  },
+  {
+    "id": "ml-8",
+    "question": "What is the bias-variance tradeoff?",
+    "aliases": ["bias variance", "bias variance tradeoff", "ml bias variance", "underfitting overfitting"],
+    "category": "Machine Learning",
+    "tags": ["bias", "variance", "tradeoff", "generalization"],
+    "answer": "The bias-variance tradeoff is a fundamental concept in ML that describes the balance between model simplicity (bias) and model complexity (variance). High bias leads to underfitting (model is too simple), while high variance leads to overfitting (model is too complex). The goal is to find the sweet spot that minimizes total error. Techniques like cross-validation and regularization help manage this tradeoff.",
+    "toolLinks": []
+  },
+  {
+    "id": "ml-9",
+    "question": "What is cross-validation?",
+    "aliases": ["cross validation", "k-fold cross validation", "cv in ml", "model validation"],
+    "category": "Machine Learning",
+    "tags": ["cross-validation", "validation", "evaluation"],
+    "answer": "Cross-validation is a technique for evaluating model performance by splitting data into training and validation sets multiple times. The most common is k-fold cross-validation, where data is split into k folds, and the model is trained k times, each time using a different fold as validation. This provides a more robust estimate of model performance and helps detect overfitting.",
+    "toolLinks": []
+  },
+  {
+    "id": "ml-10",
+    "question": "What is feature engineering?",
+    "aliases": ["feature engineering", "feature selection", "feature extraction", "data preprocessing"],
+    "category": "Machine Learning",
+    "tags": ["feature engineering", "preprocessing", "features"],
+    "answer": "Feature engineering is the process of selecting, transforming, and creating features (input variables) to improve model performance. It includes: handling missing values, scaling/normalization, encoding categorical variables, creating interaction terms, extracting features from text or images, and dimensionality reduction. Good feature engineering is often more important than choosing the right algorithm.",
+    "toolLinks": []
+  },
+  {
+    "id": "ml-11",
+    "question": "What is the difference between classification and regression?",
+    "aliases": ["classification vs regression", "difference classification regression", "ml classification regression"],
+    "category": "Machine Learning",
+    "tags": ["classification", "regression", "difference"],
+    "answer": "Classification predicts discrete categories or classes (e.g., spam/not spam, dog/cat), while regression predicts continuous values (e.g., house prices, temperature). Classification uses algorithms like Logistic Regression, Decision Trees, and SVM, while regression uses Linear Regression, Polynomial Regression, and Random Forest Regression. The choice depends on the type of output variable and business problem.",
+    "toolLinks": []
+  },
+  {
+    "id": "ml-12",
+    "question": "What is gradient descent?",
+    "aliases": ["gradient descent", "what is gradient descent", "optimization algorithm", "ml optimization"],
+    "category": "Machine Learning",
+    "tags": ["gradient descent", "optimization", "training"],
+    "answer": "Gradient descent is an optimization algorithm used to minimize the loss function by iteratively moving in the direction of steepest descent (negative gradient). Variants include: Batch Gradient Descent (uses all data), Stochastic Gradient Descent (uses one data point), and Mini-batch Gradient Descent (uses a batch). It's fundamental to training neural networks and many ML algorithms.",
+    "toolLinks": []
+  }
+]

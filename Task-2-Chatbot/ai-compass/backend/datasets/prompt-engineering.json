@@ -1,0 +1,76 @@
+[
+  {
+    "id": "pe-1",
+    "question": "What is Prompt Engineering?",
+    "aliases": ["prompt engineering", "what is prompt engineering", "prompt design", "prompt crafting"],
+    "category": "Prompt Engineering",
+    "tags": ["prompt engineering", "prompts", "llm"],
+    "answer": "Prompt engineering is the practice of designing and refining input prompts to get better, more reliable outputs from AI models. It involves crafting questions, instructions, and context to guide LLMs towards desired responses. Good prompts are specific, provide context, use examples, and clearly define the expected output format. Prompt engineering is both an art and a science, requiring experimentation and iteration.",
+    "toolLinks": [
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Practice prompt engineering", "bestFor": "Practice" }
+    ]
+  },
+  {
+    "id": "pe-2",
+    "question": "How to write effective prompts?",
+    "aliases": ["effective prompts", "how to write prompts", "prompt writing tips", "prompt best practices"],
+    "category": "Prompt Engineering",
+    "tags": ["prompts", "best practices", "tips"],
+    "answer": "To write effective prompts: 1) Be specific and clear about what you want, 2) Provide context and background information, 3) Use examples (few-shot prompting), 4) Define the desired output format, 5) Set constraints (length, style, tone), 6) Break complex tasks into steps, 7) Use system messages to set behavior, 8) Iterate and test different approaches, 9) Use role prompting ('Act as a...'), 10) Include validation steps for critical tasks.",
+    "toolLinks": []
+  },
+  {
+    "id": "pe-3",
+    "question": "What is few-shot prompting?",
+    "aliases": ["few-shot prompting", "few shot", "few-shot learning", "prompt examples"],
+    "category": "Prompt Engineering",
+    "tags": ["few-shot", "examples", "prompting"],
+    "answer": "Few-shot prompting involves providing examples of desired input-output pairs within the prompt to guide the model's behavior. This helps the model understand the task better and improves output quality. For example, showing a few examples of how to analyze sentiment before asking the model to analyze a new text. Few-shot prompting is more effective than zero-shot (no examples) and requires fewer examples than fine-tuning.",
+    "toolLinks": []
+  },
+  {
+    "id": "pe-4",
+    "question": "What is zero-shot prompting?",
+    "aliases": ["zero-shot prompting", "zero shot", "zero-shot learning", "no examples prompting"],
+    "category": "Prompt Engineering",
+    "tags": ["zero-shot", "prompting", "no examples"],
+    "answer": "Zero-shot prompting involves asking the model to perform a task without providing any examples. The model relies solely on its training knowledge to understand and complete the task. While zero-shot can work well for simple tasks, it may be less reliable for complex or specialized tasks. It's the most basic form of prompting but can be surprisingly effective with well-crafted instructions.",
+    "toolLinks": []
+  },
+  {
+    "id": "pe-5",
+    "question": "What is chain-of-thought prompting?",
+    "aliases": ["chain-of-thought", "cot", "chain of thought prompting", "reasoning prompts"],
+    "category": "Prompt Engineering",
+    "tags": ["chain-of-thought", "reasoning", "step-by-step"],
+    "answer": "Chain-of-thought (CoT) prompting encourages the model to break down problems into step-by-step reasoning before providing an answer. This improves performance on complex reasoning tasks like math, logic, and multi-step problems. CoT can be used with few-shot examples (showing the reasoning steps) or zero-shot (asking the model to 'think step by step'). It makes the model's reasoning process more transparent and often leads to more accurate answers.",
+    "toolLinks": []
+  },
+  {
+    "id": "pe-6",
+    "question": "What is role prompting?",
+    "aliases": ["role prompting", "persona prompting", "act as prompts", "system prompts"],
+    "category": "Prompt Engineering",
+    "tags": ["role prompting", "persona", "system prompt"],
+    "answer": "Role prompting involves instructing the AI to adopt a specific persona, role, or expertise when responding. Examples include 'Act as a expert data scientist', 'You are a career coach', or 'Role-play as a historian.' This technique helps the model access specialized knowledge and adopt appropriate tone and style. Role prompts are most effective when the role is clearly defined and specific.",
+    "toolLinks": []
+  },
+  {
+    "id": "pe-7",
+    "question": "What are prompt templates?",
+    "aliases": ["prompt templates", "prompt patterns", "prompt structures", "template prompts"],
+    "category": "Prompt Engineering",
+    "tags": ["templates", "patterns", "structure"],
+    "answer": "Prompt templates are reusable structures or patterns for crafting effective prompts. They provide a consistent framework for asking questions and include placeholders for variable content. Common templates include: 'Please [task] for [topic] in [format]', 'Act as a [role] to [task] for [audience]', and 'Analyze [input] and provide [output] with [constraints]'. Templates make prompting more efficient and consistent.",
+    "toolLinks": []
+  },
+  {
+    "id": "pe-8",
+    "question": "What is temperature in AI prompting?",
+    "aliases": ["temperature", "ai temperature", "creativity setting", "prompt temperature"],
+    "category": "Prompt Engineering",
+    "tags": ["temperature", "creativity", "settings"],
+    "answer": "Temperature is a setting that controls the randomness of AI responses. Lower temperature (0-0.3) produces more focused, deterministic outputs. Higher temperature (0.7-1.0) generates more creative, varied, and sometimes unexpected responses. Temperature 0.0 gives nearly identical responses to the same prompt. Adjust temperature based on your needs: low for factual answers, high for creative writing.",
+    "toolLinks": []
+  }
+]

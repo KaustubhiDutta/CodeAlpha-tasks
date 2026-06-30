@@ -1,0 +1,67 @@
+[
+  {
+    "id": 278,
+    "question": "Best AI video generators?",
+    "aliases": ["video generator ai", "ai video creator", "text to video ai", "best video ai", "ai video maker"],
+    "category": "Video Generation",
+    "tags": ["video generation", "ai video", "text to video"],
+    "answer": "Best AI video generators: 1) Runway ML - professional video generation, 2) Pika Labs - quick video creation, 3) Synthesia - avatar videos, 4) HeyGen - talking head videos, 5) Luma AI - 3D video, 6) CapCut - free editing, 7) Descript - script editing, 8) Animaker - animation. These tools create videos from text or images with varying quality.",
+    "toolLinks": [
+      { "name": "Runway ML", "url": "https://runwayml.com", "icon": "🎬", "description": "Professional generation", "bestFor": "Professionals" },
+      { "name": "Pika Labs", "url": "https://pika.art", "icon": "⚡", "description": "Quick videos", "bestFor": "Quick content" },
+      { "name": "Synthesia", "url": "https://www.synthesia.io", "icon": "🎥", "description": "Avatar videos", "bestFor": "Business" }
+    ]
+  },
+  {
+    "id": 279,
+    "question": "Best AI tools for YouTube videos?",
+    "aliases": ["youtube ai", "video creation ai", "content creator ai", "ai for youtubers"],
+    "category": "Video Generation",
+    "tags": ["youtube", "video creation", "content creators"],
+    "answer": "Best AI tools for YouTube: 1) Descript - video editing, 2) Runway ML - effects, 3) Pika Labs - clips, 4) Synthesia - avatars, 5) Gamma - thumbnails, 6) HeyGen - talking heads, 7) CapCut - free editing, 8) Animaker - animations. These tools help YouTubers create high-quality content faster.",
+    "toolLinks": [
+      { "name": "Descript", "url": "https://www.descript.com", "icon": "🎙️", "description": "Video editing", "bestFor": "YouTubers" },
+      { "name": "Runway ML", "url": "https://runwayml.com", "icon": "🎬", "description": "Video effects", "bestFor": "Content creators" },
+      { "name": "CapCut", "url": "https://www.capcut.com", "icon": "✂️", "description": "Free editing", "bestFor": "Free" }
+    ]
+  },
+  {
+    "id": 280,
+    "question": "Best AI avatar creators?",
+    "aliases": ["avatar ai", "ai avatar maker", "digital human ai", "talking avatar ai"],
+    "category": "Video Generation",
+    "tags": ["avatars", "talking heads", "digital humans"],
+    "answer": "Best AI avatar creators: 1) Synthesia - realistic avatars, 2) HeyGen - talking avatars, 3) Luma AI - 3D avatars, 4) Adobe Character Animator - animated avatars, 5) D-ID - animated faces, 6) Elai - avatar videos, 7) Colossyan - workplace avatars, 8) Ready Player Me - gaming avatars. These tools create professional avatars for videos and presentations.",
+    "toolLinks": [
+      { "name": "Synthesia", "url": "https://www.synthesia.io", "icon": "🎥", "description": "Realistic avatars", "bestFor": "Business" },
+      { "name": "HeyGen", "url": "https://www.heygen.com", "icon": "🎭", "description": "Talking avatars", "bestFor": "Marketing" },
+      { "name": "Luma AI", "url": "https://lumalabs.ai", "icon": "🎮", "description": "3D avatars", "bestFor": "3D" }
+    ]
+  },
+  {
+    "id": 281,
+    "question": "Best AI animation tools?",
+    "aliases": ["animation ai", "ai animator", "motion ai", "animated video ai"],
+    "category": "Video Generation",
+    "tags": ["animation", "motion", "animated", "3d"],
+    "answer": "Best AI animation tools: 1) Runway ML - animation generation, 2) Pika Labs - animated clips, 3) Animaker - animated videos, 4) Adobe Animate - professional animation, 5) Vyond - animated videos, 6) Blender AI - 3D animation, 7) Cascadeur - character animation, 8) DeepMotion - motion capture. These tools help create animated content for various purposes.",
+    "toolLinks": [
+      { "name": "Runway ML", "url": "https://runwayml.com", "icon": "🎬", "description": "Animation generation", "bestFor": "Animation" },
+      { "name": "Animaker", "url": "https://animaker.com", "icon": "🎮", "description": "Animated videos", "bestFor": "Business" },
+      { "name": "Pika Labs", "url": "https://pika.art", "icon": "⚡", "description": "Animated clips", "bestFor": "Quick" }
+    ]
+  },
+  {
+    "id": 282,
+    "question": "Best AI tools for short-form content?",
+    "aliases": ["short form ai", "reels ai", "shorts ai", "tiktok ai", "vertical video ai"],
+    "category": "Video Generation",
+    "tags": ["short-form", "reels", "shorts", "tiktok"],
+    "answer": "Best AI tools for short-form content: 1) Pika Labs - short clips, 2) Runway ML - short videos, 3) CapCut - editing, 4) Descript - quick editing, 5) Synthesia - short avatars, 6) HeyGen - quick talking heads, 7) Canva AI - graphics, 8) Gamma - visuals. These tools help create engaging short-form content for social media.",
+    "toolLinks": [
+      { "name": "Pika Labs", "url": "https://pika.art", "icon": "⚡", "description": "Short clips", "bestFor": "Social media" },
+      { "name": "CapCut", "url": "https://www.capcut.com", "icon": "✂️", "description": "Free editing", "bestFor": "Free" },
+      { "name": "Runway ML", "url": "https://runwayml.com", "icon": "🎬", "description": "Short videos", "bestFor": "Content creators" }
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "id": "news-1",
+    "question": "What are the latest AI tools?",
+    "aliases": ["new ai tools", "latest ai", "ai releases", "2026 ai tools", "recent ai tools", "newest ai"],
+    "category": "AI News",
+    "tags": ["new", "latest", "releases", "2026"],
+    "answer": "Latest AI tools launched in 2026: 1) Claude 3.5 Sonnet - Anthropic's advanced reasoning model, 2) OpenAI o1 - chain-of-thought reasoning model, 3) Midjourney v6.1 - improved photorealism, 4) Pika 2.0 - enhanced video generation, 5) Google Gemini 1.5 - 2M token context, 6) Mistral Large 2 - open-weight model, 7) DeepSeek V3 - competitive coding AI, 8) Runway Gen-3 - professional video generation, 9) Adobe Firefly 2 - enhanced design AI, 10) Notion AI 2.0 - productivity integration. These tools represent the latest innovations in AI, pushing boundaries in reasoning, creativity, and efficiency.",
+    "toolLinks": [
+      { "name": "Claude 3.5", "url": "https://www.anthropic.com/claude", "icon": "🧠", "description": "Latest Claude", "bestFor": "Reasoning" },
+      { "name": "Pika 2.0", "url": "https://pika.art", "icon": "⚡", "description": "Latest Pika", "bestFor": "Video" },
+      { "name": "DeepSeek V3", "url": "https://deepseek.com", "icon": "🔎", "description": "Latest coding AI", "bestFor": "Coding" }
+    ]
+  },
+  {
+    "id": "news-2",
+    "question": "Latest AI breakthroughs?",
+    "aliases": ["ai breakthroughs", "innovations", "research", "advancements", "new discoveries"],
+    "category": "AI News",
+    "tags": ["breakthroughs", "innovations", "research", "advancements"],
+    "answer": "Latest AI breakthroughs in 2026: 1) Chain-of-Thought reasoning (OpenAI o1) - improved logical reasoning, 2) Large Multimodal Models - unified understanding of text, image, audio, video, 3) Agentic AI - autonomous agents that can plan and execute tasks, 4) RAG advancements - better retrieval with knowledge graphs, 5) Generative video - high-quality text-to-video generation, 6) Real-time translation - near-instant translation with voice cloning, 7) AI safety improvements - better alignment techniques, 8) Efficient models - smaller, faster, cheaper models, 9) Multi-agent systems - AI teams working together, 10) AI in science - protein folding, drug discovery, materials science. These breakthroughs are accelerating AI capabilities across all domains.",
+    "toolLinks": []
+  },
+  {
+    "id": "news-3",
+    "question": "Latest OpenAI updates?",
+    "aliases": ["openai", "chatgpt", "gpt-4", "updates", "openai news", "openai releases"],
+    "category": "AI News",
+    "tags": ["openai", "updates", "releases", "chatgpt"],
+    "answer": "Latest OpenAI updates: 1) OpenAI o1 - chain-of-thought reasoning model with improved problem-solving, 2) GPT-4o - multimodal capabilities with vision and audio, 3) DALL-E 3 improvements - better image quality and text rendering, 4) GPT-4 fine-tuning - custom models for specific domains, 5) ChatGPT updates - improved performance and features, 6) Voice mode - conversational AI with natural speech, 7) Plugins ecosystem - expanded functionality, 8) API updates - improved developer tools and pricing. OpenAI continues to lead in AI innovation with regular releases and improvements.",
+    "toolLinks": [
+      { "name": "OpenAI", "url": "https://openai.com", "icon": "🤖", "description": "Latest updates", "bestFor": "AI" }
+    ]
+  },
+  {
+    "id": "news-4",
+    "question": "Latest Anthropic updates?",
+    "aliases": ["anthropic", "claude", "updates", "safety", "claude news", "anthropic releases"],
+    "category": "AI News",
+    "tags": ["anthropic", "claude", "updates", "safety"],
+    "answer": "Latest Anthropic updates: 1) Claude 3.5 Sonnet - advanced reasoning and coding capabilities, 2) 200K context window - process entire books and long documents, 3) Constitutional AI - safety-focused approach, 4) Claude API - enterprise access and integration, 5) Improved performance - faster responses and better accuracy, 6) Claude Pro - premium features for professionals, 7) Tool use - function calling for developers, 8) Developer platform - enhanced API and documentation. Anthropic is advancing safe and capable AI with a focus on constitutional principles.",
+    "toolLinks": [
+      { "name": "Anthropic", "url": "https://www.anthropic.com", "icon": "🧠", "description": "Latest updates", "bestFor": "AI" }
+    ]
+  },
+  {
+    "id": "news-5",
+    "question": "Latest Google AI updates?",
+    "aliases": ["google", "gemini", "ai updates", "multimodal", "google news", "google releases"],
+    "category": "AI News",
+    "tags": ["google", "gemini", "updates", "multimodal"],
+    "answer": "Latest Google AI updates: 1) Gemini 1.5 - 2M context window with improved performance, 2) Gemini Flash - faster, more efficient model, 3) Multimodal capabilities - advanced text, image, audio, video understanding, 4) Google Workspace integration - AI in Docs, Gmail, Sheets, 5) AI in Search - AI overviews and search enhancements, 6) Project Astra - AI assistant for daily tasks, 7) Vertex AI updates - enhanced developer tools, 8) Imagen 3 - improved image generation. Google is integrating AI across its entire ecosystem with a focus on multimodal capabilities.",
+    "toolLinks": [
+      { "name": "Google Gemini", "url": "https://gemini.google.com", "icon": "✨", "description": "Latest updates", "bestFor": "Google users" }
+    ]
+  },
+  {
+    "id": "news-6",
+    "question": "Latest AI industry trends?",
+    "aliases": ["ai trends", "industry trends", "2026", "future", "ai predictions", "ai market"],
+    "category": "AI News",
+    "tags": ["trends", "industry", "2026", "market"],
+    "answer": "Latest AI industry trends in 2026: 1) Agentic AI - autonomous agents for complex tasks, 2) Multimodal AI - unified text, image, audio, video processing, 3) RAG improvements - better retrieval systems, 4) Smaller efficient models - cost-effective AI, 5) AI regulation - governance and compliance frameworks, 6) AI in science - drug discovery, materials science, 7) Generative video - text-to-video maturation, 8) Real-time AI - faster inference and processing, 9) Edge AI - on-device intelligence, 10) AI safety research - alignment and robustness. These trends are shaping the AI industry and creating new opportunities.",
+    "toolLinks": []
+  },
+  {
+    "id": "news-7",
+    "question": "Most talked-about AI tools this month?",
+    "aliases": ["trending ai", "popular ai", "tools 2026", "ai buzz", "ai hype", "viral ai"],
+    "category": "AI News",
+    "tags": ["trending", "popular", "buzz", "viral"],
+    "answer": "Most talked-about AI tools this month: 1) Claude 3.5 Sonnet - for reasoning and coding, 2) OpenAI o1 - chain-of-thought capabilities, 3) Midjourney v6.1 - improved image generation, 4) Pika 2.0 - enhanced video creation, 5) Gemini 1.5 - 2M context window, 6) Mistral Large 2 - open-weight performance, 7) DeepSeek V3 - coding excellence, 8) Runway Gen-3 - professional video, 9) Adobe Firefly 2 - design integration, 10) Notion AI 2.0 - productivity features. These tools are generating the most discussion and adoption in the AI community.",
+    "toolLinks": [
+      { "name": "Claude 3.5", "url": "https://www.anthropic.com/claude", "icon": "🧠", "description": "Trending", "bestFor": "Reasoning" },
+      { "name": "Pika 2.0", "url": "https://pika.art", "icon": "⚡", "description": "Trending", "bestFor": "Video" }
+    ]
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": 272,
+    "question": "Best AI image generators?",
+    "aliases": ["image generator ai", "ai art generator", "text to image ai", "best image ai"],
+    "category": "Image Generation",
+    "tags": ["image generation", "ai art", "generative art"],
+    "answer": "Best AI image generators: 1) Midjourney - artistic and photorealistic, 2) DALL-E 3 - prompt accuracy, 3) Stable Diffusion - open-source, 4) Adobe Firefly - Creative Cloud, 5) Leonardo AI - free tier, 6) Ideogram - typography, 7) Canva AI - accessible, 8) Playground AI - experimentation. These tools create images from text prompts with varying styles and quality.",
+    "toolLinks": [
+      { "name": "Midjourney", "url": "https://www.midjourney.com", "icon": "🎨", "description": "Artistic images", "bestFor": "Art" },
+      { "name": "DALL-E 3", "url": "https://openai.com/dall-e-3", "icon": "✨", "description": "Prompt accuracy", "bestFor": "Precision" },
+      { "name": "Stable Diffusion", "url": "https://stability.ai", "icon": "⚡", "description": "Open-source", "bestFor": "Customization" }
+    ]
+  },
+  {
+    "id": 273,
+    "question": "How to generate AI art?",
+    "aliases": ["make ai art", "create ai art", "ai art tutorial", "generative art guide"],
+    "category": "Image Generation",
+    "tags": ["ai art", "generate art", "prompting", "image generation"],
+    "answer": "To generate AI art: 1) Choose an AI image generator (Midjourney, DALL-E, Stable Diffusion), 2) Write a detailed prompt describing what you want, 3) Include style, mood, subject, composition, and lighting, 4) Iterate by refining your prompt based on results, 5) Use negative prompts to avoid unwanted elements, 6) Experiment with different styles and parameters. Practice leads to better results!",
+    "toolLinks": [
+      { "name": "Midjourney", "url": "https://www.midjourney.com", "icon": "🎨", "description": "Generate art", "bestFor": "Art" },
+      { "name": "DALL-E 3", "url": "https://openai.com/dall-e-3", "icon": "✨", "description": "Image generation", "bestFor": "Precision" }
+    ]
+  },
+  {
+    "id": 274,
+    "question": "Best AI tools for illustrations?",
+    "aliases": ["illustration ai", "ai illustrator", "digital art ai", "vector art ai"],
+    "category": "Image Generation",
+    "tags": ["illustrations", "art", "graphics", "design"],
+    "answer": "Best AI tools for illustrations: 1) Midjourney - artistic illustrations, 2) DALL-E 3 - detailed illustrations, 3) Stable Diffusion - custom illustrations, 4) Leonardo AI - free illustrations, 5) Adobe Firefly - professional illustrations, 6) Canva AI - accessible illustrations, 7) Ideogram - illustrated text, 8) Playground AI - experimentation. These tools create unique illustrations for any project.",
+    "toolLinks": [
+      { "name": "Midjourney", "url": "https://www.midjourney.com", "icon": "🎨", "description": "Artistic illustrations", "bestFor": "Art" },
+      { "name": "DALL-E 3", "url": "https://openai.com/dall-e-3", "icon": "✨", "description": "Detailed illustrations", "bestFor": "Precision" },
+      { "name": "Leonardo AI", "url": "https://leonardo.ai", "icon": "🎯", "description": "Free illustrations", "bestFor": "Free" }
+    ]
+  },
+  {
+    "id": 275,
+    "question": "Best AI tools for anime art?",
+    "aliases": ["anime ai", "manga ai", "anime art generator", "anime illustration ai"],
+    "category": "Image Generation",
+    "tags": ["anime", "manga", "art", "illustration"],
+    "answer": "Best AI tools for anime art: 1) Midjourney - anime style, 2) Stable Diffusion - anime models, 3) Leonardo AI - anime generation, 4) NovelAI - anime illustrations, 5) DALL-E 3 - anime style, 6) PixAI - anime art, 7) Niji Journey - anime specialized, 8) Playground AI - anime experimentation. These tools create professional-quality anime artwork.",
+    "toolLinks": [
+      { "name": "Midjourney", "url": "https://www.midjourney.com", "icon": "🎨", "description": "Anime style", "bestFor": "Anime" },
+      { "name": "Niji Journey", "url": "https://nijijourney.com", "icon": "🎨", "description": "Anime specialized", "bestFor": "Anime art" },
+      { "name": "NovelAI", "url": "https://novelai.net", "icon": "📚", "description": "Anime illustrations", "bestFor": "Illustration" }
+    ]
+  },
+  {
+    "id": 276,
+    "question": "Best AI tools for product images?",
+    "aliases": ["product photography ai", "ecommerce ai images", "product rendering ai", "ai product photos"],
+    "category": "Image Generation",
+    "tags": ["product images", "ecommerce", "marketing", "photography"],
+    "answer": "Best AI tools for product images: 1) Midjourney - product photography, 2) DALL-E 3 - product rendering, 3) Stable Diffusion - custom products, 4) Adobe Firefly - professional product images, 5) Canva AI - product mockups, 6) Leonardo AI - product concepts, 7) Ideogram - product design, 8) Clipdrop - product editing. These tools help create professional product images.",
+    "toolLinks": [
+      { "name": "Midjourney", "url": "https://www.midjourney.com", "icon": "🎨", "description": "Product photography", "bestFor": "Ecommerce" },
+      { "name": "Adobe Firefly", "url": "https://www.adobe.com/products/firefly.html", "icon": "🦋", "description": "Professional images", "bestFor": "Professionals" },
+      { "name": "Canva AI", "url": "https://www.canva.com/ai", "icon": "🎨", "description": "Product mockups", "bestFor": "Everyone" }
+    ]
+  },
+  {
+    "id": 277,
+    "question": "Best AI tools for marketing creatives?",
+    "aliases": ["marketing ai images", "creative marketing ai", "ad creative ai", "branding ai"],
+    "category": "Image Generation",
+    "tags": ["marketing", "creatives", "design", "branding"],
+    "answer": "Best AI tools for marketing creatives: 1) Midjourney - creative images, 2) DALL-E 3 - precise visuals, 3) Canva AI - design, 4) Adobe Firefly - professional, 5) Gamma - presentations, 6) Leonardo AI - art, 7) Stable Diffusion - custom, 8) Ideogram - typography. These tools help marketers create compelling visual content.",
+    "toolLinks": [
+      { "name": "Midjourney", "url": "https://www.midjourney.com", "icon": "🎨", "description": "Creative images", "bestFor": "Marketing" },
+      { "name": "Canva AI", "url": "https://www.canva.com/ai", "icon": "🎨", "description": "Marketing design", "bestFor": "Everyone" },
+      { "name": "Gamma", "url": "https://gamma.app", "icon": "✨", "description": "Presentations", "bestFor": "Marketing" }
+    ]
+  }
+]

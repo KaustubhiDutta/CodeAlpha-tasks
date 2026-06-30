@@ -1,0 +1,99 @@
+[
+  {
+    "id": "gen-1",
+    "question": "What is Generative AI?",
+    "aliases": ["generative ai", "what is generative ai", "gen ai", "generative artificial intelligence"],
+    "category": "Generative AI",
+    "tags": ["generative ai", "content creation", "genai"],
+    "answer": "Generative AI is a type of artificial intelligence that can create new content, including text, images, audio, video, and code. Unlike traditional AI that classifies or predicts, generative AI models learn patterns from existing data and use them to generate novel content. These models use deep learning techniques, particularly Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and large language models.",
+    "toolLinks": [
+      { "name": "Midjourney", "url": "https://www.midjourney.com", "icon": "🎨", "description": "AI image generation", "bestFor": "Art" },
+      { "name": "Runway", "url": "https://runwayml.com", "icon": "🎬", "description": "AI video generation", "bestFor": "Video" }
+    ]
+  },
+  {
+    "id": "gen-2",
+    "question": "What are LLMs (Large Language Models)?",
+    "aliases": ["llm", "large language model", "what is llm", "language models explained"],
+    "category": "Generative AI",
+    "tags": ["llm", "language model", "text generation"],
+    "answer": "Large Language Models (LLMs) are generative AI models trained on vast amounts of text data using transformer architectures. They can understand context, generate coherent text, translate languages, write code, and perform various language tasks. LLMs are the foundation of modern conversational AI and content generation tools.",
+    "toolLinks": [
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Popular LLM", "bestFor": "General use" },
+      { "name": "Claude", "url": "https://www.anthropic.com/claude", "icon": "🧠", "description": "Advanced reasoning", "bestFor": "Complex tasks" }
+    ]
+  },
+  {
+    "id": "gen-3",
+    "question": "What are the best AI image generators?",
+    "aliases": ["best ai image generators", "ai image generators", "top image ai", "image generation tools"],
+    "category": "Generative AI",
+    "tags": ["image generation", "tools", "best"],
+    "answer": "The best AI image generators include: 1) Midjourney - Known for artistic and photorealistic images with v6, 2) DALL-E 3 by OpenAI - Excellent at following complex prompts, 3) Stable Diffusion - Open-source and highly customizable, 4) FLUX by Black Forest Labs - Newest model with state-of-the-art performance, 5) Adobe Firefly - Integrated with Adobe Creative Cloud for professional use.",
+    "toolLinks": [
+      { "name": "Midjourney", "url": "https://www.midjourney.com", "icon": "🎨", "description": "Artistic image generation", "bestFor": "Art & Design" },
+      { "name": "DALL-E 3", "url": "https://openai.com/dall-e-3", "icon": "🖼️", "description": "OpenAI image generator", "bestFor": "General" },
+      { "name": "Stable Diffusion", "url": "https://stability.ai", "icon": "⚡", "description": "Open-source image AI", "bestFor": "Developers" }
+    ]
+  },
+  {
+    "id": "gen-4",
+    "question": "What are the best AI video generators?",
+    "aliases": ["best ai video generators", "ai video generators", "video generation tools", "ai video"],
+    "category": "Generative AI",
+    "tags": ["video generation", "tools", "best"],
+    "answer": "The best AI video generators include: 1) Runway Gen-2/3 - Professional-grade video generation, 2) Pika - Popular for creating short videos from prompts, 3) Synthesia - AI avatars for video creation, 4) HeyGen - AI video generation with realistic avatars, 5) Luma Dream Machine - Photorealistic video generation from text and images.",
+    "toolLinks": [
+      { "name": "Runway", "url": "https://runwayml.com", "icon": "🎬", "description": "Professional video AI", "bestFor": "Professionals" },
+      { "name": "Pika", "url": "https://pika.art", "icon": "✨", "description": "Quick video generation", "bestFor": "Creators" },
+      { "name": "Synthesia", "url": "https://www.synthesia.io", "icon": "👤", "description": "AI avatars", "bestFor": "Presentations" }
+    ]
+  },
+  {
+    "id": "gen-5",
+    "question": "How does AI generate images?",
+    "aliases": ["ai image generation", "how ai creates images", "image generation process", "ai art process"],
+    "category": "Generative AI",
+    "tags": ["image generation", "process", "diffusion"],
+    "answer": "AI generates images through diffusion models and GANs. Diffusion models (like DALL-E and Stable Diffusion) work by starting with random noise and gradually refining it into an image, guided by text prompts. GANs use a generator-discriminator pair that compete to create realistic images. Modern image generation models use large-scale training on image-text pairs to learn visual concepts and generate high-quality images.",
+    "toolLinks": []
+  },
+  {
+    "id": "gen-6",
+    "question": "What are the best AI tools for writing?",
+    "aliases": ["ai writing tools", "best ai for writing", "content generation tools", "writing assistants"],
+    "category": "Generative AI",
+    "tags": ["writing", "content", "assistants"],
+    "answer": "The best AI writing tools include: 1) ChatGPT - Versatile for all writing tasks, 2) Claude - Excellent for long-form content and analysis, 3) Jasper - Specialized for marketing content, 4) Copy.ai - Great for copywriting, 5) Grammarly - AI-powered writing assistant for grammar and style. These tools help with content creation, editing, brainstorming, and professional writing.",
+    "toolLinks": [
+      { "name": "Jasper", "url": "https://www.jasper.ai", "icon": "✍️", "description": "Marketing content", "bestFor": "Marketing" },
+      { "name": "Copy.ai", "url": "https://www.copy.ai", "icon": "📝", "description": "Copywriting AI", "bestFor": "Copywriting" },
+      { "name": "Grammarly", "url": "https://www.grammarly.com", "icon": "📖", "description": "Writing assistant", "bestFor": "Editing" }
+    ]
+  },
+  {
+    "id": "gen-7",
+    "question": "What are the best AI tools for coding?",
+    "aliases": ["ai coding tools", "best ai for coding", "coding assistants", "ai programmers"],
+    "category": "Generative AI",
+    "tags": ["coding", "development", "assistants"],
+    "answer": "The best AI coding tools include: 1) Cursor AI - AI-first code editor, 2) GitHub Copilot - Autocomplete and code suggestions, 3) Claude 3.5 - Best for complex coding tasks and problem-solving, 4) ChatGPT - General coding assistance, 5) Replit AI - Browser-based coding with AI help. These tools support multiple languages, debugging, code generation, and documentation.",
+    "toolLinks": [
+      { "name": "Cursor", "url": "https://cursor.sh", "icon": "💻", "description": "AI-first code editor", "bestFor": "Developers" },
+      { "name": "GitHub Copilot", "url": "https://github.com/features/copilot", "icon": "🤖", "description": "AI pair programmer", "bestFor": "All developers" }
+    ]
+  },
+  {
+    "id": "gen-8",
+    "question": "What is ChatGPT vs Claude vs Gemini?",
+    "aliases": ["chatgpt vs claude", "chatgpt vs gemini", "compare ai assistants", "ai model comparison"],
+    "category": "Generative AI",
+    "tags": ["comparison", "chatgpt", "claude", "gemini"],
+    "answer": "ChatGPT (OpenAI) excels at general conversation and creative tasks. Claude (Anthropic) is known for strong reasoning, safety, and large context window. Gemini (Google) offers native multimodal capabilities and Google integration. Choose ChatGPT for creativity and general use, Claude for analytical tasks and document processing, and Gemini for Google ecosystem integration and multimodal tasks.",
+    "toolLinks": [
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "General conversation", "bestFor": "General" },
+      { "name": "Claude", "url": "https://www.anthropic.com/claude", "icon": "🧠", "description": "Advanced reasoning", "bestFor": "Analysis" },
+      { "name": "Gemini", "url": "https://gemini.google.com", "icon": "✨", "description": "Multimodal AI", "bestFor": "Google users" }
+    ]
+  }
+]

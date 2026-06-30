@@ -1,0 +1,67 @@
+[
+  {
+    "id": 267,
+    "question": "Best AI design tools?",
+    "aliases": ["design ai", "ai for designers", "graphic design ai", "creative ai tools"],
+    "category": "Design Tools",
+    "tags": ["design", "graphic design", "UI", "UX"],
+    "answer": "Best AI design tools: 1) Canva AI - accessible design for everyone, 2) Adobe Firefly - Creative Cloud integration, 3) Figma AI - UI design, 4) Midjourney - creative images, 5) DALL-E 3 - image generation, 6) Gamma - presentations, 7) Tome - narrative design, 8) Uizard - prototyping, 9) Framer AI - responsive design, 10) Leonardo AI - art generation. These tools empower designers and non-designers alike.",
+    "toolLinks": [
+      { "name": "Canva AI", "url": "https://www.canva.com/ai", "icon": "🎨", "description": "Accessible design", "bestFor": "Everyone" },
+      { "name": "Adobe Firefly", "url": "https://www.adobe.com/products/firefly.html", "icon": "🦋", "description": "Creative Cloud", "bestFor": "Professionals" },
+      { "name": "Figma AI", "url": "https://www.figma.com/ai", "icon": "🎨", "description": "UI design", "bestFor": "Designers" }
+    ]
+  },
+  {
+    "id": 268,
+    "question": "Best AI logo generators?",
+    "aliases": ["logo ai", "ai logo creator", "brand logo ai", "logo design ai"],
+    "category": "Design Tools",
+    "tags": ["logo design", "branding", "logos", "brand identity"],
+    "answer": "Best AI logo generators: 1) Looka - professional logos, 2) LogoAI - AI-powered design, 3) Brandmark - brand identity, 4) Hatchful - Shopify free, 5) Canva AI - logo design, 6) Midjourney - creative logos, 7) DALL-E 3 - concept logos, 8) Stable Diffusion - custom logos. These tools help create professional logos without hiring a designer.",
+    "toolLinks": [
+      { "name": "Looka", "url": "https://looka.com", "icon": "👁️", "description": "Professional logos", "bestFor": "Business" },
+      { "name": "LogoAI", "url": "https://logoai.com", "icon": "🎯", "description": "AI-powered logos", "bestFor": "Brands" },
+      { "name": "Canva AI", "url": "https://www.canva.com/ai", "icon": "🎨", "description": "Logo design", "bestFor": "Everyone" }
+    ]
+  },
+  {
+    "id": 269,
+    "question": "Best AI UI/UX tools?",
+    "aliases": ["ui ux ai", "prototyping ai", "design system ai", "user experience ai"],
+    "category": "Design Tools",
+    "tags": ["ui design", "ux design", "prototyping", "design systems"],
+    "answer": "Best AI UI/UX tools: 1) Figma AI - UI design and prototyping, 2) Uizard - rapid prototyping, 3) Framer AI - responsive layouts, 4) Sketch AI - design suggestions, 5) Adobe XD AI - UI design, 6) Canva AI - quick designs, 7) ChatGPT - design advice, 8) Claude - UX analysis. These tools help designers create better user experiences.",
+    "toolLinks": [
+      { "name": "Figma AI", "url": "https://www.figma.com/ai", "icon": "🎨", "description": "UI design", "bestFor": "UI designers" },
+      { "name": "Uizard", "url": "https://uizard.io", "icon": "🪄", "description": "Prototyping", "bestFor": "Rapid prototyping" },
+      { "name": "Framer AI", "url": "https://www.framer.com/ai", "icon": "⚡", "description": "Responsive design", "bestFor": "Web designers" }
+    ]
+  },
+  {
+    "id": 270,
+    "question": "Best AI presentation makers?",
+    "aliases": ["presentation ai", "slide ai", "deck ai", "powerpoint ai"],
+    "category": "Design Tools",
+    "tags": ["presentations", "slides", "decks", "powerpoint"],
+    "answer": "Best AI presentation makers: 1) Gamma - beautiful slides from prompts, 2) Tome AI - narrative decks, 3) Beautiful.ai - design automation, 4) Canva AI - presentation design, 5) ChatGPT - content planning, 6) Claude - slide ideas, 7) Notion AI - presentation outlines, 8) Plus AI - Google Slides. These tools help create professional presentations quickly.",
+    "toolLinks": [
+      { "name": "Gamma", "url": "https://gamma.app", "icon": "✨", "description": "Beautiful slides", "bestFor": "Professionals" },
+      { "name": "Tome AI", "url": "https://tome.app", "icon": "📖", "description": "Narrative decks", "bestFor": "Storytelling" },
+      { "name": "Beautiful.ai", "url": "https://www.beautiful.ai", "icon": "🎨", "description": "Design automation", "bestFor": "Design" }
+    ]
+  },
+  {
+    "id": 271,
+    "question": "Best AI tools for graphics?",
+    "aliases": ["graphics ai", "visual design ai", "art ai", "creative graphics"],
+    "category": "Design Tools",
+    "tags": ["graphics", "visual design", "art", "creativity"],
+    "answer": "Best AI tools for graphics: 1) Canva AI - accessible graphic design, 2) Adobe Firefly - professional graphics, 3) Midjourney - creative graphics, 4) DALL-E 3 - precise graphics, 5) Figma AI - UI graphics, 6) Stable Diffusion - custom graphics, 7) Leonardo AI - art graphics, 8) Ideogram - typography. These tools empower graphic designers of all skill levels.",
+    "toolLinks": [
+      { "name": "Canva AI", "url": "https://www.canva.com/ai", "icon": "🎨", "description": "Accessible design", "bestFor": "Everyone" },
+      { "name": "Adobe Firefly", "url": "https://www.adobe.com/products/firefly.html", "icon": "🦋", "description": "Professional graphics", "bestFor": "Professionals" },
+      { "name": "Midjourney", "url": "https://www.midjourney.com", "icon": "🎨", "description": "Creative graphics", "bestFor": "Art" }
+    ]
+  }
+]

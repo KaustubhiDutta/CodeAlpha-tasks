@@ -1,0 +1,199 @@
+[
+  {
+    "id": "learn-1",
+    "question": "How can I start learning AI?",
+    "aliases": ["learn ai", "ai roadmap", "how to learn ai", "ai learning path", "start ai", "beginner ai"],
+    "category": "Learning AI",
+    "tags": ["learn", "roadmap", "start", "beginner"],
+    "answer": "Start learning AI with this comprehensive roadmap: 1) Learn Python programming basics (3 months) - variables, loops, functions, libraries, 2) Study mathematics - linear algebra, calculus, statistics, probability (2 months), 3) Take Andrew Ng's Machine Learning course on Coursera (3 months), 4) Learn Deep Learning with Fast.ai or Coursera (3 months), 5) Practice with Kaggle competitions and datasets (ongoing), 6) Build projects for your portfolio (ongoing), 7) Stay updated with AI research and newsletters (ongoing). Total time: 12-18 months for job-ready skills. For non-technical learners, start with concept-level understanding and no-code platforms.",
+    "toolLinks": [
+      { "name": "Coursera", "url": "https://www.coursera.org", "icon": "📚", "description": "AI courses", "bestFor": "Beginners" },
+      { "name": "Fast.ai", "url": "https://www.fast.ai", "icon": "⚡", "description": "Practical deep learning", "bestFor": "Hands-on" },
+      { "name": "Kaggle", "url": "https://www.kaggle.com", "icon": "🏆", "description": "Practice", "bestFor": "Projects" }
+    ]
+  },
+  {
+    "id": "learn-2",
+    "question": "Best free AI courses?",
+    "aliases": ["free ai courses", "free machine learning courses", "free deep learning courses", "no cost ai", "free certification"],
+    "category": "Learning AI",
+    "tags": ["free", "courses", "certification", "online"],
+    "answer": "Top free AI courses: 1) Andrew Ng's Machine Learning (Coursera) - best for beginners, 2) Fast.ai Practical Deep Learning - hands-on approach, 3) CS50 AI (Harvard) - introduction to AI, 4) Google's Machine Learning Crash Course - practical ML, 5) Stanford CS224N (NLP with Deep Learning) - advanced NLP, 6) MIT 6.S191 (Introduction to Deep Learning) - deep learning foundations, 7) Kaggle courses - free ML/data science, 8) YouTube channels - sentdex, 3Blue1Brown, Two Minute Papers. Most courses are available with financial aid or free auditing options. These resources provide a solid foundation for AI learning without cost.",
+    "toolLinks": [
+      { "name": "Coursera", "url": "https://www.coursera.org", "icon": "📚", "description": "Free courses", "bestFor": "Beginners" },
+      { "name": "Fast.ai", "url": "https://www.fast.ai", "icon": "⚡", "description": "Free deep learning", "bestFor": "Practical" },
+      { "name": "Kaggle", "url": "https://www.kaggle.com", "icon": "🏆", "description": "Free ML courses", "bestFor": "Practice" }
+    ]
+  },
+  {
+    "id": "learn-3",
+    "question": "What roadmap should beginners follow?",
+    "aliases": ["ai roadmap for beginners", "beginner ai path", "learning path for ai", "how to start ai", "ai for beginners"],
+    "category": "Learning AI",
+    "tags": ["roadmap", "path", "beginners", "guide"],
+    "answer": "AI Learning Roadmap for Beginners: Month 1-3: Python programming fundamentals (variables, functions, OOP, libraries). Month 4-5: Mathematics for AI (Linear Algebra, Calculus, Statistics). Month 6-8: Machine Learning (Andrew Ng's Coursera course, ML algorithms, model evaluation). Month 9-11: Deep Learning (Fast.ai or Coursera, neural networks, CNNs, RNNs). Month 12-14: Specialization (NLP, Computer Vision, or Generative AI). Month 15+: Build projects, participate in Kaggle competitions, contribute to open-source, and stay updated with research. This path takes approximately 14-18 months for job-ready skills.",
+    "toolLinks": [
+      { "name": "Coursera", "url": "https://www.coursera.org", "icon": "📚", "description": "AI courses", "bestFor": "Structured learning" },
+      { "name": "Fast.ai", "url": "https://www.fast.ai", "icon": "⚡", "description": "Practical deep learning", "bestFor": "Hands-on" }
+    ]
+  },
+  {
+    "id": "learn-4",
+    "question": "Best YouTube channels to learn AI?",
+    "aliases": ["youtube ai", "best ai youtubers", "ai tutorials youtube", "learn ai from youtube", "ai education youtube"],
+    "category": "Learning AI",
+    "tags": ["youtube", "channels", "tutorials", "video"],
+    "answer": "Best YouTube channels for AI: 1) 3Blue1Brown - visual explanations of math and ML concepts, 2) sentdex - practical Python and ML tutorials, 3) Two Minute Papers - AI research explained quickly, 4) Andrej Karpathy - deep learning and LLMs, 5) Lex Fridman - AI interviews and discussions, 6) Siraj Raval - AI news and projects, 7) Stanford CS lectures - university-level AI content, 8) MIT OpenCourseWare - free course lectures, 9) Google AI Blog - research updates, 10) DeepLearningAI - Andrew Ng's channel. These channels provide high-quality educational content for all levels.",
+    "toolLinks": []
+  },
+  {
+    "id": "learn-5",
+    "question": "How long does it take to learn AI?",
+    "aliases": ["time to learn ai", "ai learning duration", "how many months to learn ai", "learn ai timeline", "ai learning period"],
+    "category": "Learning AI",
+    "tags": ["time", "duration", "timeline", "months"],
+    "answer": "Learning AI typically takes 12-18 months for job-ready skills. Breakdown: Python (3 months), Mathematics (2 months), Machine Learning (3 months), Deep Learning (3 months), Specialization (3 months). For a basic understanding, you can learn fundamentals in 4-6 months. For full-time learning (40+ hours/week), some achieve proficiency in 6-9 months. The learning never stops as AI is rapidly evolving. Consistent practice and project building are key. Learning pace depends on your background, dedication, and learning approach.",
+    "toolLinks": []
+  },
+  {
+    "id": "learn-6",
+    "question": "Can a non-technical person learn AI?",
+    "aliases": ["non technical ai", "ai for non programmers", "non coder ai", "business people ai", "non-technical learning"],
+    "category": "Learning AI",
+    "tags": ["non-technical", "no-code", "business", "executives"],
+    "answer": "Yes, non-technical people can learn AI! Start with concept-level understanding (what AI can do, how it works) using resources like 'AI for Everyone' by Andrew Ng. Use no-code platforms like Teachable Machine to experiment. Learn tools like ChatGPT, Claude, and Perplexity to understand AI capabilities. For deeper understanding, learn Python basics and data analysis. Many successful AI product managers and business leaders started non-technical. Focus on understanding AI applications, strategy, and decision-making rather than implementation details.",
+    "toolLinks": [
+      { "name": "Teachable Machine", "url": "https://teachablemachine.withgoogle.com", "icon": "🧠", "description": "No-code AI", "bestFor": "Non-technical" },
+      { "name": "AI for Everyone", "url": "https://www.coursera.org/learn/ai-for-everyone", "icon": "📚", "description": "Concept-level AI", "bestFor": "Beginners" }
+    ]
+  },
+  {
+    "id": "learn-7",
+    "question": "What projects should beginners build?",
+    "aliases": ["ai projects for beginners", "beginner ml projects", "first ai project", "easy ai projects", "starter projects"],
+    "category": "Learning AI",
+    "tags": ["projects", "beginners", "portfolio", "practice"],
+    "answer": "Beginner AI project ideas: 1) Spam email classifier using Naive Bayes, 2) Handwritten digit recognition (MNIST dataset), 3) Chatbot using simple NLP and rule-based responses, 4) Sentiment analysis on Twitter data using NLP, 5) Image classifier for cats vs dogs using CNN, 6) Movie recommendation system using collaborative filtering, 7) Stock price prediction using LSTM, 8) Text summarizer using transformers, 9) Face detection using OpenCV, 10) Customer segmentation using clustering algorithms. Start with simple projects and gradually increase complexity. Use Kaggle datasets and open-source libraries. Build a portfolio with 3-5 projects.",
+    "toolLinks": [
+      { "name": "Kaggle", "url": "https://www.kaggle.com", "icon": "🏆", "description": "Datasets and projects", "bestFor": "Practice" },
+      { "name": "GitHub", "url": "https://github.com", "icon": "📂", "description": "Project ideas", "bestFor": "Portfolio" }
+    ]
+  },
+  {
+    "id": "learn-8",
+    "question": "Which specializations should I consider (NLP, CV, RL)?",
+    "aliases": ["specializations in ai", "nlp cv rl", "which ai field to choose", "ai specialization"],
+    "category": "Learning AI",
+    "tags": ["specialization", "nlp", "cv", "rl"],
+    "answer": "Choose a specialization based on interest and career goals: NLP for language tasks (chatbots, summarization), Computer Vision (CV) for images/video (detection, segmentation), Reinforcement Learning (RL) for control and decision-making (games, robotics), and Generative AI for content creation. Start with core ML/DL concepts then specialize with targeted courses and projects.",
+    "toolLinks": []
+  },
+  {
+    "id": "learn-9",
+    "question": "Which books and resources are essential?",
+    "aliases": ["best ai books", "ai reading list", "books for machine learning", "resources ai"],
+    "category": "Learning AI",
+    "tags": ["books", "reading", "resources"],
+    "answer": "Recommended books: 'Deep Learning' (Goodfellow), 'Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow' (Aurélien Géron), 'Pattern Recognition and Machine Learning' (Bishop), 'The Hundred-Page Machine Learning Book' (Andriy Burkov). Supplement with papers like 'Attention is All You Need' and courses from Stanford, MIT, and Coursera.",
+    "toolLinks": []
+  },
+  {
+    "id": "learn-10",
+    "question": "How to prepare for AI job interviews?",
+    "aliases": ["ai interview prep", "machine learning interview", "ml systems design", "ai interviews"],
+    "category": "Learning AI",
+    "tags": ["interview", "prep", "jobs"],
+    "answer": "Prepare with: solid algorithm and coding practice (LeetCode), ML system design (modeling tradeoffs, data pipelines), core ML concepts (bias/variance, regularization), case studies from your projects, and communication practice. Mock interviews, whiteboard exercises, and explaining projects clearly help a lot.",
+    "toolLinks": []
+  },
+  {
+    "id": "learn-11",
+    "question": "How do I get AI internships or entry-level roles?",
+    "aliases": ["get ai internship", "entry level ai job", "apply for ml internships", "land internship ai"],
+    "category": "Learning AI",
+    "tags": ["internship", "jobs", "career"],
+    "answer": "Build a focused portfolio (3-5 strong projects), contribute to open-source, participate in competitions (Kaggle), network on LinkedIn and at meetups, tailor your resume to highlight impact and metrics, apply early to internship programs and reach out directly to researchers or engineers. Seek referrals from your network.",
+    "toolLinks": []
+  },
+  {
+    "id": "learn-12",
+    "question": "What is MLOps and why does it matter?",
+    "aliases": ["mlops", "what is mlops", "devops for ml", "model deployment practices"],
+    "category": "Learning AI",
+    "tags": ["mlops", "ci/cd", "deployment"],
+    "answer": "MLOps is practices and tools to reliably deploy, monitor, version, and manage ML models in production. It covers CI/CD for models, data pipelines, model registry, monitoring (drift, performance), and reproducibility. MLOps is essential for scaling ML beyond experiments.",
+    "toolLinks": []
+  },
+  {
+    "id": "learn-13",
+    "question": "How do I set up a development environment for ML?",
+    "aliases": ["setup ml environment", "conda ml environment", "gpu setup", "python environment ml"],
+    "category": "Learning AI",
+    "tags": ["environment", "setup", "gpu", "conda"],
+    "answer": "Use conda or venv to manage Python environments, install PyTorch or TensorFlow matching your CUDA version, use Docker for reproducibility, and leverage Jupyter/VSCode for development. For GPU, install appropriate drivers and CUDA toolkit or use cloud instances to avoid local setup complexity.",
+    "toolLinks": []
+  },
+  {
+    "id": "learn-14",
+    "question": "Which research papers should beginners read?",
+    "aliases": ["papers to read ai", "essential ml papers", "start reading ai research", "must read ml papers"],
+    "category": "Learning AI",
+    "tags": ["papers", "research", "reading"],
+    "answer": "Start with: 'AlexNet' (2012) for vision breakthroughs, 'ResNet' for deep residual networks, 'Sequence to Sequence' and 'Attention is All You Need' for transformers, 'BERT' for contextual embeddings, and recent surveys on LLMs. Read blog summaries and annotated guides to understand intuition before diving into math.",
+    "toolLinks": []
+  },
+  {
+    "id": "learn-15",
+    "question": "How can I contribute to open-source AI projects?",
+    "aliases": ["contribute open source ai", "open source ml", "how to contribute to ml projects"],
+    "category": "Learning AI",
+    "tags": ["open-source", "contribute", "community"],
+    "answer": "Find beginner-friendly repos, look for 'good first issue' labels, start with documentation or tests, reproduce issues and submit fixes, and gradually take on code contributions. Engage in project discussions and follow contribution guidelines. Contributing helps learning and builds credibility.",
+    "toolLinks": []
+  },
+  {
+    "id": "learn-16",
+    "question": "Where can I get free or low-cost GPU/cloud credits?",
+    "aliases": ["free gpu credits", "cloud credits ml", "colab alternatives", "gpu for students"],
+    "category": "Learning AI",
+    "tags": ["cloud", "gpu", "credits"],
+    "answer": "Options: Google Colab (free & Pro), Kaggle Kernels (free GPUs), AWS Educate and AWS Free Tier, Google Cloud credits for new users and students, Azure for Students, and cloud provider grants for research. University affiliations sometimes give access to compute clusters.",
+    "toolLinks": []
+  },
+  {
+    "id": "learn-17",
+    "question": "What's a good path for learners without a CS degree?",
+    "aliases": ["non cs ai path", "ai without cs degree", "career change to ai", "switch to ai"],
+    "category": "Learning AI",
+    "tags": ["career", "non-cs", "path"],
+    "answer": "Focus on core skills: programming (Python), math (statistics, linear algebra), and practical ML projects. Consider bootcamps, online certificates, and internships. Highlight transferable skills (data analysis, domain knowledge) and build a portfolio that demonstrates applied impact.",
+    "toolLinks": []
+  },
+  {
+    "id": "learn-18",
+    "question": "How do I debug and analyze ML model errors?",
+    "aliases": ["debug ml", "model error analysis", "why model failing", "error analysis ml"],
+    "category": "Learning AI",
+    "tags": ["debugging", "error analysis", "evaluation"],
+    "answer": "Perform error analysis by inspecting misclassified examples, compute confusion matrices, analyze feature importance, check data quality and labeling errors, evaluate distribution shifts, and use explainability tools (SHAP/LIME) to understand model behavior. Iteratively fix data issues and model assumptions.",
+    "toolLinks": []
+  },
+  {
+    "id": "learn-19",
+    "question": "How do I ensure reproducibility in ML experiments?",
+    "aliases": ["reproducible ml", "reproducibility in ai", "repeat experiments ml", "seed randomness"],
+    "category": "Learning AI",
+    "tags": ["reproducibility", "experiments", "best practices"],
+    "answer": "Pin package versions, set random seeds, log hyperparameters and environment details, use Docker or containers, keep datasets and preprocessing steps versioned, and use experiment tracking tools (MLflow, Weights & Biases). Share notebooks and clear instructions for replication.",
+    "toolLinks": []
+  },
+  {
+    "id": "learn-20",
+    "question": "How should I structure my AI portfolio and resume?",
+    "aliases": ["ai portfolio", "ml resume", "portfolio for ai jobs", "resume for ml roles"],
+    "category": "Learning AI",
+    "tags": ["portfolio", "resume", "career"],
+    "answer": "Include 3-5 polished projects with clear problem statements, datasets, approaches, metrics, and links to code and demos. Highlight productionization (APIs, deployments), dataset size, and impact metrics. Keep descriptions concise and quantify results (e.g., accuracy improvements, speedups). Use GitHub, personal website, and LinkedIn to showcase work.",
+    "toolLinks": []
+  }
+]

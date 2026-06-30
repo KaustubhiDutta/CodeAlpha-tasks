@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "question": "Hello",
+    "aliases": ["hi", "hey", "greetings", "what's up", "good morning", "good evening", "how are you"],
+    "category": "General",
+    "tags": ["hello", "hi", "greeting", "welcome"],
+    "answer": "Hello! I'm AI Compass, your AI discovery and learning assistant. I can help you find the best AI tools, learn AI concepts, compare products, and stay updated with AI trends. What brings you here today?",
+    "toolLinks": []
+  },
+  {
+    "id": 2,
+    "question": "Hi",
+    "aliases": ["hello", "hey", "greetings"],
+    "category": "General",
+    "tags": ["hi", "hello", "hey"],
+    "answer": "Hi there! I'm AI Compass. I specialize in helping you discover AI tools, learn AI concepts, and stay updated with the latest AI trends. How can I help you today?",
+    "toolLinks": []
+  },
+  {
+    "id": 3,
+    "question": "What can you help me with?",
+    "aliases": ["what do you do", "how can you help", "what are your capabilities", "what features do you have"],
+    "category": "General",
+    "tags": ["help", "what can you do", "capabilities", "features"],
+    "answer": "I can help you with: 1) Find the best AI tools for any task, 2) Learn AI concepts from basics to advanced, 3) Compare different AI tools side-by-side, 4) Stay updated with AI trends and news, 5) Get personalized recommendations.",
+    "toolLinks": []
+  },
+  {
+    "id": 4,
+    "question": "Who are you?",
+    "aliases": ["what is ai compass", "tell me about yourself", "introduce yourself", "who is ai compass"],
+    "category": "General",
+    "tags": ["who are you", "introduction", "about"],
+    "answer": "I'm AI Compass - your intelligent AI discovery and learning assistant. I use Natural Language Processing to understand your needs and provide personalized recommendations from our comprehensive AI database.",
+    "toolLinks": []
+  },
+  {
+    "id": 5,
+    "question": "How does AI Compass work?",
+    "aliases": ["how do you work", "what technology do you use", "how are you built", "explain your working"],
+    "category": "General",
+    "tags": ["how it works", "technology", "nlp"],
+    "answer": "AI Compass uses Natural Language Processing with TF-IDF and Cosine Similarity to match your questions with our comprehensive database. It understands your intent and provides the best recommendations.",
+    "toolLinks": []
+  },
+  {
+    "id": 6,
+    "question": "Is AI Compass free?",
+    "aliases": ["do I need to pay", "pricing", "cost", "subscription", "premium"],
+    "category": "General",
+    "tags": ["free", "pricing", "cost", "subscription"],
+    "answer": "Yes! AI Compass is completely free to use. We help you discover the best AI tools for your needs without any cost. We provide recommendations, comparisons, and links to both free and paid AI tools.",
+    "toolLinks": []
+  }
+]

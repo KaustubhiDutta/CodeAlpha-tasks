@@ -1,0 +1,106 @@
+[
+  {
+    "id": 259,
+    "question": "Best AI tools for coding?",
+    "aliases": ["coding ai", "ai for programming", "best code ai", "programming assistant"],
+    "category": "Coding Tools",
+    "tags": ["coding", "programming", "developers", "code"],
+    "answer": "Best AI tools for coding: 1) GitHub Copilot - real-time code suggestions, 2) Cursor - AI-first IDE, 3) Claude - coding architecture, 4) ChatGPT - coding help, 5) Codeium - free autocomplete, 6) Tabnine - AI completion, 7) Replit AI - online coding, 8) Amazon Codewhisperer - AWS integration, 9) DeepCode - code review, 10) Snyk - security. These tools boost developer productivity.",
+    "toolLinks": [
+      { "name": "GitHub Copilot", "url": "https://github.com/features/copilot", "icon": "🤖", "description": "Code suggestions", "bestFor": "All developers" },
+      { "name": "Cursor", "url": "https://cursor.sh", "icon": "⌨️", "description": "AI-first IDE", "bestFor": "Professional developers" },
+      { "name": "Codeium", "url": "https://codeium.com", "icon": "⚡", "description": "Free coding AI", "bestFor": "Free" }
+    ]
+  },
+  {
+    "id": 260,
+    "question": "Best AI code assistants?",
+    "aliases": ["code assistant", "ai coding helper", "best code completion", "developer ai"],
+    "category": "Coding Tools",
+    "tags": ["code assistants", "AI coding", "developer tools"],
+    "answer": "Best AI code assistants: 1) GitHub Copilot - most popular, real-time suggestions, 2) Cursor - AI-first code editor, 3) Codeium - free and open-source, 4) Tabnine - privacy-focused autocomplete, 5) Amazon Codewhisperer - AWS users, 6) Replit AI - online IDE, 7) ChatGPT - general coding help, 8) Claude - architecture assistance. These assistants help write code faster with fewer errors.",
+    "toolLinks": [
+      { "name": "GitHub Copilot", "url": "https://github.com/features/copilot", "icon": "🤖", "description": "Popular assistant", "bestFor": "All developers" },
+      { "name": "Cursor", "url": "https://cursor.sh", "icon": "⌨️", "description": "AI-first editor", "bestFor": "Professionals" },
+      { "name": "Codeium", "url": "https://codeium.com", "icon": "⚡", "description": "Free assistant", "bestFor": "Free" }
+    ]
+  },
+  {
+    "id": 261,
+    "question": "Best AI debugging tools?",
+    "aliases": ["debugging ai", "bug fix ai", "ai for debugging", "code debugger"],
+    "category": "Coding Tools",
+    "tags": ["debugging", "bug fixing", "code review"],
+    "answer": "Best AI debugging tools: 1) DeepCode - code review and bug detection, 2) Snyk - security vulnerabilities, 3) GitHub Copilot Chat - debugging assistance, 4) Claude - bug explanation, 5) ChatGPT - debugging help, 6) Cursor - integrated debugging, 7) SonarQube - code quality, 8) Veracode - security scanning. These tools help find and fix bugs faster.",
+    "toolLinks": [
+      { "name": "DeepCode", "url": "https://www.deepcode.ai", "icon": "🔍", "description": "Bug detection", "bestFor": "Developers" },
+      { "name": "Snyk", "url": "https://snyk.io", "icon": "🛡️", "description": "Security vulnerabilities", "bestFor": "Security" },
+      { "name": "GitHub Copilot Chat", "url": "https://github.com/features/copilot", "icon": "💬", "description": "Debugging help", "bestFor": "All developers" }
+    ]
+  },
+  {
+    "id": 262,
+    "question": "Best AI tools for web development?",
+    "aliases": ["web dev ai", "frontend ai", "backend ai", "full stack ai"],
+    "category": "Coding Tools",
+    "tags": ["web development", "frontend", "backend", "full-stack"],
+    "answer": "Best AI tools for web development: 1) GitHub Copilot - code suggestions, 2) Cursor - web dev IDE, 3) Vercel AI - deployment, 4) Claude - architecture, 5) ChatGPT - help, 6) Wix AI - website builder, 7) Framer AI - design, 8) Netlify AI - hosting, 9) Codeium - free coding, 10) Amazon Codewhisperer - AWS. These tools accelerate web development.",
+    "toolLinks": [
+      { "name": "GitHub Copilot", "url": "https://github.com/features/copilot", "icon": "🤖", "description": "Code suggestions", "bestFor": "Web developers" },
+      { "name": "Vercel AI", "url": "https://vercel.com", "icon": "▲", "description": "Deployment", "bestFor": "Deployment" },
+      { "name": "Wix AI", "url": "https://www.wix.com/ai-website-builder", "icon": "🌐", "description": "Website builder", "bestFor": "No-code" }
+    ]
+  },
+  {
+    "id": 263,
+    "question": "Best AI tools for app development?",
+    "aliases": ["app dev ai", "mobile ai", "flutter ai", "react native ai"],
+    "category": "Coding Tools",
+    "tags": ["app development", "mobile", "flutter", "react native"],
+    "answer": "Best AI tools for app development: 1) FlutterFlow - AI Flutter code, 2) Bubble AI - no-code apps, 3) ChatGPT - React Native help, 4) GitHub Copilot - code suggestions, 5) Cursor - AI IDE, 6) Claude - architecture, 7) Adalo AI - mobile apps, 8) CodeMagic AI - testing. These tools help build mobile and web apps faster.",
+    "toolLinks": [
+      { "name": "FlutterFlow", "url": "https://flutterflow.io", "icon": "📱", "description": "AI Flutter code", "bestFor": "Flutter" },
+      { "name": "Bubble AI", "url": "https://bubble.io", "icon": "🫧", "description": "No-code apps", "bestFor": "No-code" },
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "React Native help", "bestFor": "React Native" }
+    ]
+  },
+  {
+    "id": 264,
+    "question": "Best AI tools for React projects?",
+    "aliases": ["react ai", "react development ai", "frontend react ai", "react components ai"],
+    "category": "Coding Tools",
+    "tags": ["react", "frontend", "javascript", "web"],
+    "answer": "Best AI tools for React development: 1) GitHub Copilot - React components, 2) Cursor - React context understanding, 3) Vercel AI - React deployment, 4) Claude - React architecture, 5) ChatGPT - React help, 6) Codeium - free React code, 7) Tabnine - React autocomplete, 8) Replit AI - online React. These tools improve React development speed and quality.",
+    "toolLinks": [
+      { "name": "GitHub Copilot", "url": "https://github.com/features/copilot", "icon": "🤖", "description": "React components", "bestFor": "React developers" },
+      { "name": "Cursor", "url": "https://cursor.sh", "icon": "⌨️", "description": "React context", "bestFor": "React professionals" },
+      { "name": "Vercel AI", "url": "https://vercel.com", "icon": "▲", "description": "React deployment", "bestFor": "Deployment" }
+    ]
+  },
+  {
+    "id": 265,
+    "question": "Best AI tools for Python development?",
+    "aliases": ["python ai", "python development ai", "data science ai", "python coding assistant"],
+    "category": "Coding Tools",
+    "tags": ["python", "data science", "programming", "development"],
+    "answer": "Best AI tools for Python development: 1) GitHub Copilot - Python suggestions, 2) Cursor - Python IDE, 3) Claude - Python logic, 4) Codeium - free Python, 5) ChatGPT - Python help, 6) Tabnine - Python autocomplete, 7) Replit AI - online Python, 8) PyCharm AI - IDE integration. These tools enhance Python programming.",
+    "toolLinks": [
+      { "name": "GitHub Copilot", "url": "https://github.com/features/copilot", "icon": "🤖", "description": "Python suggestions", "bestFor": "Python developers" },
+      { "name": "Cursor", "url": "https://cursor.sh", "icon": "⌨️", "description": "Python IDE", "bestFor": "Python professionals" },
+      { "name": "Codeium", "url": "https://codeium.com", "icon": "⚡", "description": "Free Python", "bestFor": "Free" }
+    ]
+  },
+  {
+    "id": 266,
+    "question": "Best AI tools for learning programming?",
+    "aliases": ["learn programming ai", "coding education ai", "programming tutor ai", "beginner coding ai"],
+    "category": "Coding Tools",
+    "tags": ["learn coding", "programming", "education", "beginners"],
+    "answer": "Best AI tools for learning programming: 1) ChatGPT - concept explanation, 2) Codecademy AI - personalized lessons, 3) Mimo AI - interactive exercises, 4) Replit AI - coding practice, 5) GitHub Copilot - code suggestions, 6) Claude - programming help, 7) Codeium - free coding, 8) Tabnine - autocomplete. These tools help beginners learn coding faster.",
+    "toolLinks": [
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Concept explanation", "bestFor": "Beginners" },
+      { "name": "Codecademy AI", "url": "https://www.codecademy.com", "icon": "📚", "description": "Personalized lessons", "bestFor": "Students" },
+      { "name": "Mimo AI", "url": "https://mimo.org", "icon": "📱", "description": "Interactive exercises", "bestFor": "Practice" }
+    ]
+  }
+]

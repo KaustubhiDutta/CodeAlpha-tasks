@@ -1,0 +1,80 @@
+[
+  {
+    "id": 283,
+    "question": "Best AI research tools?",
+    "aliases": ["research ai", "academic ai", "paper analysis ai", "research assistant ai"],
+    "category": "Research",
+    "tags": ["research", "academic", "papers", "analysis"],
+    "answer": "Best AI research tools: 1) Perplexity AI - cited research, 2) Elicit - literature review, 3) Consensus - scientific papers, 4) Scite.ai - citation context, 5) NotebookLM - research organization, 6) ChatGPT - research assistance, 7) Claude - research analysis, 8) Gemini - research integration. These tools help with finding and analyzing research.",
+    "toolLinks": [
+      { "name": "Perplexity AI", "url": "https://www.perplexity.ai", "icon": "🔍", "description": "Cited research", "bestFor": "Research" },
+      { "name": "Elicit", "url": "https://elicit.org", "icon": "📊", "description": "Literature review", "bestFor": "Academic" },
+      { "name": "Scite.ai", "url": "https://scite.ai", "icon": "🔬", "description": "Citation context", "bestFor": "Citations" }
+    ]
+  },
+  {
+    "id": 284,
+    "question": "Best AI note-taking tools?",
+    "aliases": ["note taking ai", "ai notes", "knowledge management ai", "ai notebook"],
+    "category": "Research",
+    "tags": ["notes", "note-taking", "knowledge management"],
+    "answer": "Best AI note-taking tools: 1) Notion AI - integrated notes, 2) Mem AI - intelligent notes, 3) Obsidian AI - knowledge management, 4) ChatGPT - note assistance, 5) Claude - note analysis, 6) Evernote AI - organized notes, 7) Roam Research - networked notes, 8) Logseq - open-source notes. These tools help organize and retrieve information.",
+    "toolLinks": [
+      { "name": "Notion AI", "url": "https://www.notion.so/product/ai", "icon": "📝", "description": "Integrated notes", "bestFor": "All" },
+      { "name": "Mem AI", "url": "https://mem.ai", "icon": "🧠", "description": "Intelligent notes", "bestFor": "Knowledge" },
+      { "name": "Obsidian AI", "url": "https://obsidian.md", "icon": "🗂️", "description": "Knowledge management", "bestFor": "Advanced" }
+    ]
+  },
+  {
+    "id": 285,
+    "question": "Best AI tools for studying?",
+    "aliases": ["study ai", "learning ai", "education ai", "student ai tools"],
+    "category": "Research",
+    "tags": ["studying", "education", "learning", "students"],
+    "answer": "Best AI tools for studying: 1) ChatGPT - research and help, 2) Khanmigo - tutoring, 3) Otter.ai - lecture transcription, 4) Notion AI - note-taking, 5) Perplexity - research, 6) Claude - learning help, 7) Quizlet - flashcards, 8) Grammarly - writing. These tools help students study more effectively.",
+    "toolLinks": [
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Research help", "bestFor": "Students" },
+      { "name": "Khanmigo", "url": "https://www.khanacademy.org/khanmigo", "icon": "🎓", "description": "Tutoring", "bestFor": "K-12" },
+      { "name": "Otter.ai", "url": "https://otter.ai", "icon": "🦦", "description": "Lecture transcription", "bestFor": "College" }
+    ]
+  },
+  {
+    "id": 286,
+    "question": "Best AI summarizers?",
+    "aliases": ["summarize ai", "text summarizer", "article summary ai", "document summary ai"],
+    "category": "Research",
+    "tags": ["summarize", "summarization", "text", "notes"],
+    "answer": "Best AI summarizers: 1) ChatGPT - text summarization, 2) Claude - long-form summarization, 3) QuillBot - quick summaries, 4) Notion AI - content summaries, 5) Perplexity - research summaries, 6) SummarizeBot - article summaries, 7) SMMRY - text summarizer, 8) Resoomer - academic summaries. These tools help condense long texts into key points.",
+    "toolLinks": [
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Text summarization", "bestFor": "All" },
+      { "name": "Claude", "url": "https://www.anthropic.com/claude", "icon": "🧠", "description": "Long-form summary", "bestFor": "Long texts" },
+      { "name": "QuillBot", "url": "https://quillbot.com", "icon": "🔄", "description": "Quick summaries", "bestFor": "Quick" }
+    ]
+  },
+  {
+    "id": 287,
+    "question": "Best AI search engines?",
+    "aliases": ["ai search", "intelligent search", "research search ai", "ai search engine"],
+    "category": "Research",
+    "tags": ["search", "research", "information", "discovery"],
+    "answer": "Best AI search engines: 1) Perplexity AI - cited search, 2) ChatGPT - conversational search, 3) Google Gemini - Google integration, 4) Claude - research search, 5) Bing AI - Microsoft integration, 6) Phind - developer search, 7) You.com - AI search, 8) Neeva - private search. These tools provide AI-powered search with better answers.",
+    "toolLinks": [
+      { "name": "Perplexity AI", "url": "https://www.perplexity.ai", "icon": "🔍", "description": "Cited search", "bestFor": "Research" },
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Conversational search", "bestFor": "General" },
+      { "name": "Google Gemini", "url": "https://gemini.google.com", "icon": "✨", "description": "Google integration", "bestFor": "Google users" }
+    ]
+  },
+  {
+    "id": 288,
+    "question": "Best AI meeting assistants?",
+    "aliases": ["meeting ai", "transcription ai", "meeting notes ai", "ai meeting recorder"],
+    "category": "Research",
+    "tags": ["meetings", "transcription", "notes", "collaboration"],
+    "answer": "Best AI meeting assistants: 1) Otter.ai - transcription, 2) Fireflies.ai - meeting capture, 3) Zoom AI Companion - summaries, 4) Microsoft Teams Copilot - meeting notes, 5) Google Meet AI - Google integration, 6) Fathom - meeting recording, 7) Tactiq - action items, 8) Krisp - noise cancellation. These tools help with meeting productivity.",
+    "toolLinks": [
+      { "name": "Otter.ai", "url": "https://otter.ai", "icon": "🦦", "description": "Transcription", "bestFor": "Meetings" },
+      { "name": "Fireflies.ai", "url": "https://fireflies.ai", "icon": "🔥", "description": "Meeting capture", "bestFor": "Sales" },
+      { "name": "Zoom AI Companion", "url": "https://zoom.us/ai-companion", "icon": "📹", "description": "Summaries", "bestFor": "Zoom users" }
+    ]
+  }
+]

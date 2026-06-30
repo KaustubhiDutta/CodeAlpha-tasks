@@ -1,0 +1,80 @@
+[
+  {
+    "id": 289,
+    "question": "Best AI tools for assignments?",
+    "aliases": ["assignment ai", "homework ai", "essay ai", "project ai"],
+    "category": "Student Hub",
+    "tags": ["assignments", "homework", "studying", "students"],
+    "answer": "Best AI tools for assignments: 1) ChatGPT - research and writing, 2) Grammarly - editing, 3) Wolfram Alpha - math help, 4) Perplexity - research, 5) Claude - analysis, 6) Notion AI - organization, 7) QuillBot - paraphrasing, 8) Otter.ai - lecture notes. These tools help students complete assignments faster and better.",
+    "toolLinks": [
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Research and writing", "bestFor": "All assignments" },
+      { "name": "Grammarly", "url": "https://www.grammarly.com", "icon": "✅", "description": "Editing", "bestFor": "Writing" },
+      { "name": "Wolfram Alpha", "url": "https://www.wolframalpha.com", "icon": "🧮", "description": "Math help", "bestFor": "Math" }
+    ]
+  },
+  {
+    "id": 290,
+    "question": "Best AI tools for notes?",
+    "aliases": ["notes ai", "lecture notes ai", "class notes ai", "study notes ai"],
+    "category": "Student Hub",
+    "tags": ["notes", "note-taking", "studying", "students"],
+    "answer": "Best AI tools for notes: 1) Notion AI - integrated note-taking, 2) Otter.ai - lecture transcription, 3) Mem AI - intelligent notes, 4) ChatGPT - note assistance, 5) Claude - note analysis, 6) Obsidian AI - knowledge management, 7) Evernote AI - organized notes, 8) OneNote AI - Microsoft integration. These tools help students take and organize notes.",
+    "toolLinks": [
+      { "name": "Notion AI", "url": "https://www.notion.so/product/ai", "icon": "📝", "description": "Integrated notes", "bestFor": "Students" },
+      { "name": "Otter.ai", "url": "https://otter.ai", "icon": "🦦", "description": "Lecture transcription", "bestFor": "College" },
+      { "name": "Mem AI", "url": "https://mem.ai", "icon": "🧠", "description": "Intelligent notes", "bestFor": "Knowledge" }
+    ]
+  },
+  {
+    "id": 291,
+    "question": "Best AI tools for presentations?",
+    "aliases": ["presentation ai", "slide ai", "student presentation ai", "project presentation ai"],
+    "category": "Student Hub",
+    "tags": ["presentations", "slides", "students", "projects"],
+    "answer": "Best AI tools for student presentations: 1) Gamma - beautiful slides, 2) Tome AI - narrative decks, 3) Beautiful.ai - design, 4) Canva AI - design, 5) ChatGPT - content, 6) Claude - content planning, 7) Notion AI - outlines, 8) Grammarly - editing. These tools help students create professional presentations.",
+    "toolLinks": [
+      { "name": "Gamma", "url": "https://gamma.app", "icon": "✨", "description": "Beautiful slides", "bestFor": "Students" },
+      { "name": "Canva AI", "url": "https://www.canva.com/ai", "icon": "🎨", "description": "Design", "bestFor": "Everyone" },
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Content", "bestFor": "All" }
+    ]
+  },
+  {
+    "id": 292,
+    "question": "Best AI tools for exam preparation?",
+    "aliases": ["exam ai", "test prep ai", "study ai", "practice ai"],
+    "category": "Student Hub",
+    "tags": ["exam prep", "tests", "studying", "students"],
+    "answer": "Best AI tools for exam prep: 1) ChatGPT - practice questions, 2) Wolfram Alpha - math, 3) Photomath - math solver, 4) Quizlet - flashcards, 5) Khanmigo - tutoring, 6) Perplexity - research, 7) Claude - explanations, 8) Grammarly - writing. These tools help students prepare effectively for exams.",
+    "toolLinks": [
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Practice questions", "bestFor": "Exam prep" },
+      { "name": "Wolfram Alpha", "url": "https://www.wolframalpha.com", "icon": "🧮", "description": "Math help", "bestFor": "Math" },
+      { "name": "Quizlet", "url": "https://quizlet.com", "icon": "📚", "description": "Flashcards", "bestFor": "Study" }
+    ]
+  },
+  {
+    "id": 293,
+    "question": "Best AI tools for project ideas?",
+    "aliases": ["project ideas ai", "brainstorming ai", "ai project ideas", "creative ideas ai"],
+    "category": "Student Hub",
+    "tags": ["projects", "ideas", "brainstorming", "students"],
+    "answer": "Best AI tools for project ideas: 1) ChatGPT - brainstorming, 2) Perplexity - research, 3) Claude - planning, 4) Notion AI - project planning, 5) Gamma - presentations, 6) GitHub Copilot - coding, 7) Canva AI - design, 8) Otter.ai - meeting notes. These tools help students generate and develop project ideas.",
+    "toolLinks": [
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Brainstorming", "bestFor": "Ideas" },
+      { "name": "Perplexity", "url": "https://www.perplexity.ai", "icon": "🔍", "description": "Research", "bestFor": "Research" },
+      { "name": "Notion AI", "url": "https://www.notion.so/product/ai", "icon": "📝", "description": "Planning", "bestFor": "Organization" }
+    ]
+  },
+  {
+    "id": 294,
+    "question": "Best AI tools for learning programming?",
+    "aliases": ["programming ai", "coding tutor ai", "learn code ai", "coding education ai"],
+    "category": "Student Hub",
+    "tags": ["learn coding", "programming", "students", "education"],
+    "answer": "Best AI tools for learning programming: 1) ChatGPT - concept explanation, 2) Codecademy AI - lessons, 3) Mimo AI - interactive, 4) Replit AI - practice, 5) GitHub Copilot - coding help, 6) Claude - programming assistance, 7) Codeium - free coding, 8) Tabnine - autocomplete. These tools help students learn to code effectively.",
+    "toolLinks": [
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Concept explanation", "bestFor": "Beginners" },
+      { "name": "Codecademy AI", "url": "https://www.codecademy.com", "icon": "📚", "description": "Lessons", "bestFor": "Students" },
+      { "name": "Mimo AI", "url": "https://mimo.org", "icon": "📱", "description": "Interactive", "bestFor": "Practice" }
+    ]
+  }
+]

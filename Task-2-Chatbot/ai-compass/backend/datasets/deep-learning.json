@@ -1,0 +1,115 @@
+[
+  {
+    "id": "dl-1",
+    "question": "What is Deep Learning?",
+    "aliases": ["what is deep learning", "deep learning definition", "dl meaning", "explain deep learning"],
+    "category": "Deep Learning",
+    "tags": ["deep learning", "neural networks", "dl"],
+    "answer": "Deep Learning is a subset of machine learning that uses artificial neural networks with many layers (deep neural networks) to model complex patterns in data. It's inspired by the structure and function of the human brain, using multiple layers of interconnected neurons to progressively extract higher-level features from raw input. Deep learning has revolutionized fields like computer vision, natural language processing, and speech recognition.",
+    "toolLinks": [
+      { "name": "PyTorch", "url": "https://pytorch.org", "icon": "🔥", "description": "Deep learning framework", "bestFor": "Research" },
+      { "name": "TensorFlow", "url": "https://www.tensorflow.org", "icon": "🧮", "description": "Production-ready DL", "bestFor": "Deployment" }
+    ]
+  },
+  {
+    "id": "dl-2",
+    "question": "What are neural networks?",
+    "aliases": ["neural networks", "what are neural networks", "nn", "artificial neural networks"],
+    "category": "Deep Learning",
+    "tags": ["neural networks", "ann", "architecture"],
+    "answer": "Neural Networks are computational systems inspired by biological neural networks in animal brains. They consist of interconnected nodes (neurons) organized in layers: input layer, hidden layers, and output layer. Each connection has a weight that adjusts during training. The network learns by forward propagation (computing outputs) and backpropagation (adjusting weights to minimize error).",
+    "toolLinks": []
+  },
+  {
+    "id": "dl-3",
+    "question": "What is a CNN (Convolutional Neural Network)?",
+    "aliases": ["cnn", "convolutional neural network", "what is cnn", "cnn explained"],
+    "category": "Deep Learning",
+    "tags": ["cnn", "computer vision", "image recognition"],
+    "answer": "A Convolutional Neural Network (CNN) is a type of deep learning network designed for processing structured grid data like images. It uses convolution operations to extract features, pooling layers to reduce dimensionality, and fully connected layers for classification. CNNs are widely used in image recognition, object detection, and computer vision tasks.",
+    "toolLinks": []
+  },
+  {
+    "id": "dl-4",
+    "question": "What is an RNN (Recurrent Neural Network)?",
+    "aliases": ["rnn", "recurrent neural network", "what is rnn", "rnn explained"],
+    "category": "Deep Learning",
+    "tags": ["rnn", "sequential data", "nlp"],
+    "answer": "A Recurrent Neural Network (RNN) is a type of neural network designed for sequential data processing. Unlike feedforward networks, RNNs have connections that form directed cycles, allowing them to maintain a hidden state that captures information from previous steps. RNNs are used for tasks like language modeling, time series analysis, and speech recognition.",
+    "toolLinks": []
+  },
+  {
+    "id": "dl-5",
+    "question": "What is a Transformer?",
+    "aliases": ["transformer", "transformer architecture", "what is transformer", "attention mechanism"],
+    "category": "Deep Learning",
+    "tags": ["transformer", "attention", "nlp"],
+    "answer": "The Transformer is a deep learning architecture introduced in the paper 'Attention Is All You Need'. It uses self-attention mechanisms to process sequential data in parallel, unlike RNNs that process sequentially. Transformers have become the backbone of modern NLP, powering models like BERT, GPT, and ChatGPT. Key components include: Multi-head attention, Positional encoding, and Feed-forward networks.",
+    "toolLinks": []
+  },
+  {
+    "id": "dl-6",
+    "question": "What are Large Language Models (LLMs)?",
+    "aliases": ["llm", "large language model", "what is llm", "language models explained"],
+    "category": "Deep Learning",
+    "tags": ["llm", "language model", "gpt", "claude"],
+    "answer": "Large Language Models (LLMs) are deep learning models trained on massive amounts of text data. They use transformer architectures with billions of parameters to understand and generate human-like text. Examples include GPT-4, ChatGPT, Claude, Gemini, and Llama. LLMs can perform tasks like text generation, translation, summarization, question answering, and code generation.",
+    "toolLinks": [
+      { "name": "Hugging Face", "url": "https://huggingface.co", "icon": "🤗", "description": "NLP models and datasets", "bestFor": "Research" }
+    ]
+  },
+  {
+    "id": "dl-7",
+    "question": "What is backpropagation?",
+    "aliases": ["backpropagation", "backprop", "what is backpropagation", "neural network training"],
+    "category": "Deep Learning",
+    "tags": ["backpropagation", "training", "optimization"],
+    "answer": "Backpropagation is the algorithm used to train neural networks by calculating gradients of the loss function with respect to network weights. It works by propagating error backwards through the network, from output layer to input layer, using the chain rule. This allows the network to update weights in the direction that minimizes error, enabling learning from data.",
+    "toolLinks": []
+  },
+  {
+    "id": "dl-8",
+    "question": "What is the difference between CNN and RNN?",
+    "aliases": ["cnn vs rnn", "difference cnn rnn", "cnn rnn comparison"],
+    "category": "Deep Learning",
+    "tags": ["cnn", "rnn", "comparison"],
+    "answer": "CNNs are designed for spatial data like images, using convolution operations to extract features. RNNs are designed for sequential data like text or time series, using recurrent connections to maintain state. CNNs process data in parallel, while RNNs process sequentially. CNNs are better for computer vision tasks, while RNNs are better for language and sequence tasks.",
+    "toolLinks": []
+  },
+  {
+    "id": "dl-9",
+    "question": "What is attention mechanism?",
+    "aliases": ["attention", "attention mechanism", "self-attention", "what is attention"],
+    "category": "Deep Learning",
+    "tags": ["attention", "transformer", "nlp"],
+    "answer": "The attention mechanism allows models to focus on the most relevant parts of input when generating output. It computes weights that represent the importance of each part, enabling the model to dynamically focus on relevant information. Self-attention (used in Transformers) allows the model to consider relationships between all positions in the input sequence simultaneously.",
+    "toolLinks": []
+  },
+  {
+    "id": "dl-10",
+    "question": "What are GANs (Generative Adversarial Networks)?",
+    "aliases": ["gan", "generative adversarial network", "what is gan", "gan explained"],
+    "category": "Deep Learning",
+    "tags": ["gan", "generative", "adversarial"],
+    "answer": "GANs are a class of generative models that consist of two competing networks: a Generator (creates fake data) and a Discriminator (distinguishes real from fake). The generator tries to fool the discriminator, while the discriminator tries to detect fakes. This adversarial training leads to highly realistic generated content, used for image generation, style transfer, and data augmentation.",
+    "toolLinks": []
+  },
+  {
+    "id": "dl-11",
+    "question": "What is transfer learning in deep learning?",
+    "aliases": ["transfer learning", "what is transfer learning", "pretrained models"],
+    "category": "Deep Learning",
+    "tags": ["transfer learning", "pretrained", "fine-tuning"],
+    "answer": "Transfer learning is a technique where knowledge gained from one task is applied to a different but related task. In deep learning, this involves taking a model pretrained on a large dataset (like ImageNet) and fine-tuning it on a smaller, task-specific dataset. This approach saves training time and data, and often performs better than training from scratch.",
+    "toolLinks": []
+  },
+  {
+    "id": "dl-12",
+    "question": "What is the vanishing gradient problem?",
+    "aliases": ["vanishing gradient", "gradient problem", "vanishing gradients", "deep learning problem"],
+    "category": "Deep Learning",
+    "tags": ["vanishing gradient", "training", "problem"],
+    "answer": "The vanishing gradient problem occurs when gradients become very small as they propagate through many layers in deep neural networks. This prevents weights in early layers from updating, making it difficult for the network to learn. Solutions include: using ReLU activation functions, residual connections, batch normalization, and careful initialization.",
+    "toolLinks": []
+  }
+]

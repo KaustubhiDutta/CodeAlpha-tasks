@@ -1,0 +1,343 @@
+[
+  {
+    "id": "ai-1",
+    "question": "What is Artificial Intelligence?",
+    "aliases": ["what is ai", "ai definition", "define artificial intelligence", "what is artificial intelligence", "ai meaning", "explain ai"],
+    "category": "AI Basics",
+    "tags": ["artificial intelligence", "ai definition", "what is ai", "basics"],
+    "answer": "Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed to think, learn, and make decisions like humans. It encompasses everything from simple rule-based systems to advanced neural networks that can understand, reason, and adapt. AI is the broad field that includes machine learning, deep learning, and other approaches to creating intelligent machines that can perceive their environment, reason about it, and take actions to achieve goals.",
+    "toolLinks": [
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Learn AI through conversation", "bestFor": "Beginners" },
+      { "name": "Perplexity AI", "url": "https://www.perplexity.ai", "icon": "🔍", "description": "Research AI concepts", "bestFor": "Research" }
+    ]
+  },
+  {
+    "id": "ai-2",
+    "question": "How does AI work?",
+    "aliases": ["how ai works", "working of ai", "explain ai working", "how does artificial intelligence work", "how is ai trained", "ai functioning"],
+    "category": "AI Basics",
+    "tags": ["how ai works", "ai functioning", "process", "training"],
+    "answer": "AI works by combining large amounts of data with fast, iterative processing and intelligent algorithms. The process involves: 1) Data Collection - gathering relevant data from various sources, 2) Data Preprocessing - cleaning and preparing data for analysis, 3) Model Training - feeding data into algorithms to learn patterns and relationships, 4) Evaluation - testing model performance on unseen data, 5) Deployment - using the trained model for predictions or decisions. Modern AI uses neural networks that learn from examples and improve over time through backpropagation and optimization.",
+    "toolLinks": [
+      { "name": "Google Colab", "url": "https://colab.research.google.com", "icon": "📓", "description": "Free AI development", "bestFor": "Learning" }
+    ]
+  },
+  {
+    "id": "ai-3",
+    "question": "What are the types of AI?",
+    "aliases": ["types of ai", "ai types", "categories of ai", "kinds of ai", "different types of ai", "ai classification"],
+    "category": "AI Basics",
+    "tags": ["types of ai", "classification", "narrow ai", "general ai"],
+    "answer": "There are three main types of AI: 1) Narrow AI (Weak AI) - designed for specific tasks like voice assistants, image recognition, and recommendation systems. All existing AI today is Narrow AI. 2) General AI (Strong AI) - can understand and perform any intellectual task that a human can. This is theoretical and not yet achieved. 3) Super AI - surpasses human intelligence in all aspects. This is purely hypothetical. Additionally, AI can be categorized by functionality into Reactive Machines (no memory), Limited Memory (uses past data), Theory of Mind (understands emotions), and Self-Aware (has consciousness - hypothetical).",
+    "toolLinks": []
+  },
+  {
+    "id": "ai-4",
+    "question": "What is the history of AI?",
+    "aliases": ["history of ai", "ai history", "evolution of ai", "ai timeline", "when was ai created", "ai origins"],
+    "category": "AI Basics",
+    "tags": ["history of ai", "timeline", "evolution", "milestones"],
+    "answer": "AI history spans several decades with key milestones: 1950 - Alan Turing proposes the Turing Test, 1956 - Dartmouth Conference (AI term coined), 1966 - ELIZA chatbot created, 1997 - Deep Blue beats chess champion, 2012 - Deep Learning breakthrough (ImageNet), 2016 - AlphaGo defeats Go champion, 2018 - GPT-1 released, 2020 - GPT-3 with 175B parameters, 2022 - ChatGPT launch (popularized AI), 2023 - GPT-4 and Claude 2, 2024 - Claude 3 and Gemini, 2025-2026 - Advanced multimodal models. AI has evolved from rule-based systems to deep learning, with rapid advancement in computing power and data availability.",
+    "toolLinks": []
+  },
+  {
+    "id": "ai-5",
+    "question": "What are the applications of AI?",
+    "aliases": ["ai applications", "ai uses", "ai in real life", "where is ai used", "ai examples", "ai practical uses"],
+    "category": "AI Basics",
+    "tags": ["applications", "uses", "real-world", "practical"],
+    "answer": "AI applications are vast and growing: 1) Healthcare - disease diagnosis, drug discovery, medical imaging, 2) Finance - fraud detection, algorithmic trading, risk assessment, 3) Transportation - self-driving cars, traffic optimization, 4) Education - personalized learning, tutoring systems, 5) Entertainment - content recommendation, gaming, 6) Customer Service - chatbots, voice assistants, 7) Manufacturing - quality control, predictive maintenance, 8) Agriculture - crop monitoring, yield prediction, 9) Retail - inventory management, personalized marketing, 10) Cybersecurity - threat detection, anomaly detection, 11) Legal - contract analysis, legal research, 12) Journalism - automated writing, fact-checking.",
+    "toolLinks": []
+  },
+  {
+    "id": "ai-6",
+    "question": "What is the difference between AI and ML?",
+    "aliases": ["ai vs ml", "difference between ai and ml", "ai ml difference", "how is ai different from ml", "ai and ml comparison"],
+    "category": "AI Basics",
+    "tags": ["ai vs ml", "difference", "comparison"],
+    "answer": "AI (Artificial Intelligence) is the broad field of making machines intelligent, while ML (Machine Learning) is a specific subset of AI that enables systems to learn from data without explicit programming. Think of AI as the entire field of creating intelligent machines, and ML as one specific approach within that field. Traditional AI uses rules and logic, while ML uses data to learn patterns. All ML is AI, but not all AI is ML. Deep Learning is a subset of ML that uses neural networks. AI also includes other approaches like expert systems, robotics, and evolutionary algorithms.",
+    "toolLinks": []
+  },
+  {
+    "id": "ai-7",
+    "question": "What is the difference between ML and Deep Learning?",
+    "aliases": ["ml vs dl", "difference between ml and dl", "machine learning vs deep learning", "deep learning vs ml"],
+    "category": "AI Basics",
+    "tags": ["ml vs dl", "difference", "comparison"],
+    "answer": "Machine Learning (ML) is a broader field where algorithms learn from data to make predictions or decisions. Deep Learning (DL) is a specialized subset of ML that uses neural networks with multiple layers (deep neural networks). Key differences: DL requires more data and computing power than traditional ML, DL automatically extracts features from raw data while ML often requires manual feature engineering, DL excels at complex tasks like image recognition and natural language processing, while ML works well for simpler tasks like regression and classification with structured data. DL is inspired by the human brain's structure and function.",
+    "toolLinks": []
+  },
+  {
+    "id": "ai-8",
+    "question": "What are AI hallucinations?",
+    "aliases": ["hallucinations", "ai errors", "ai mistakes", "llm hallucination", "ai lying", "ai fabrications"],
+    "category": "AI Basics",
+    "tags": ["hallucinations", "errors", "limitations", "accuracy"],
+    "answer": "AI hallucinations occur when an AI model generates incorrect or nonsensical information that appears confident and coherent. This happens because AI models predict patterns without true understanding, and they can generate plausible-sounding but false responses. Hallucinations are a significant challenge in AI, especially in LLMs. Common causes include: insufficient training data, overfitting, ambiguous prompts, and the model's inherent probabilistic nature. Techniques like RAG (Retrieval-Augmented Generation), fine-tuning, and reinforcement learning help reduce hallucinations. Always verify critical information from AI with reliable sources.",
+    "toolLinks": [
+      { "name": "Perplexity AI", "url": "https://www.perplexity.ai", "icon": "🔍", "description": "Reduces hallucinations with citations", "bestFor": "Research" }
+    ]
+  },
+  {
+    "id": "ai-9",
+    "question": "What are LLMs?",
+    "aliases": ["llm", "large language model", "what is llm", "language models", "large language models explained"],
+    "category": "AI Basics",
+    "tags": ["llm", "language model", "gpt", "claude", "gemini"],
+    "answer": "Large Language Models (LLMs) are AI models trained on massive amounts of text data to understand and generate human-like text. They use transformer architecture with self-attention mechanisms to process sequences and understand context. Examples include GPT-4 (OpenAI), Claude 3 (Anthropic), Gemini (Google), and Llama 3 (Meta). LLMs can perform tasks like text generation, translation, summarization, question answering, and code generation. They have revolutionized natural language processing and are the foundation of modern chatbots. LLMs are measured by parameters (billions or trillions), context window (tokens processed), and training data size.",
+    "toolLinks": [
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Popular LLM", "bestFor": "General use" },
+      { "name": "Claude", "url": "https://www.anthropic.com/claude", "icon": "🧠", "description": "Advanced reasoning", "bestFor": "Complex tasks" }
+    ]
+  },
+  {
+    "id": "ai-10",
+    "question": "What is ChatGPT?",
+    "aliases": ["chatgpt", "openai chat", "gpt chat", "what is chatgpt", "chatgpt explained"],
+    "category": "AI Basics",
+    "tags": ["chatgpt", "openai", "gpt", "conversational ai"],
+    "answer": "ChatGPT is a conversational AI developed by OpenAI based on the GPT (Generative Pre-trained Transformer) architecture. It can understand and generate human-like text, answer questions, write code, and assist with various tasks. ChatGPT is available in free (GPT-3.5) and paid (GPT-4/Plus) versions. It's one of the most popular AI tools worldwide, with over 100 million users. ChatGPT excels at conversation, creative writing, general knowledge tasks, and problem-solving. Key features include web browsing (for Plus), image generation (DALL-E integration), file uploads, and custom instructions.",
+    "toolLinks": [
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Free/Paid AI assistant", "bestFor": "General use" },
+      { "name": "ChatGPT Plus", "url": "https://chat.openai.com", "icon": "⭐", "description": "GPT-4 access", "bestFor": "Advanced tasks" }
+    ]
+  },
+  {
+    "id": "ai-11",
+    "question": "What is Claude AI?",
+    "aliases": ["claude ai", "anthropic claude", "what is claude", "claude assistant", "claude explained"],
+    "category": "AI Basics",
+    "tags": ["claude", "anthropic", "ai assistant", "reasoning"],
+    "answer": "Claude AI is an AI assistant developed by Anthropic. It's known for its strong reasoning capabilities, a 200K context window (can process entire books), and constitutional AI approach focused on safety and helpfulness. Claude 3.5 Sonnet is the latest version with superior coding, analysis, and creative writing abilities. Claude is available as a web app and API, with both free and paid tiers. It's preferred for complex reasoning tasks, coding, and document analysis. Key features include large context window, strong analytical ability, and safety-focused design. Claude excels at nuanced understanding and complex problem-solving.",
+    "toolLinks": [
+      { "name": "Claude", "url": "https://www.anthropic.com/claude", "icon": "🧠", "description": "Advanced reasoning", "bestFor": "Complex analysis" },
+      { "name": "Claude Pro", "url": "https://www.anthropic.com/claude", "icon": "⭐", "description": "Premium version", "bestFor": "Professional use" }
+    ]
+  },
+  {
+    "id": "ai-12",
+    "question": "What is Gemini AI?",
+    "aliases": ["gemini", "google gemini", "what is gemini", "google ai", "gemini explained"],
+    "category": "AI Basics",
+    "tags": ["gemini", "google", "multimodal", "ai assistant"],
+    "answer": "Gemini is Google's AI model family with native multimodal capabilities (text, images, audio, video, code). Versions include: Ultra (most capable), Pro (balanced), and Nano (on-device). Gemini integrates deeply with Google Workspace (Gmail, Docs, Drive) and has a 2M token context window. It's designed for research, analysis, content creation, and coding tasks. Gemini Advanced is available through a paid subscription with Google One AI Premium. Key features include multimodal understanding, Google integration, and real-time information access through Google Search.",
+    "toolLinks": [
+      { "name": "Gemini", "url": "https://gemini.google.com", "icon": "✨", "description": "Google's AI assistant", "bestFor": "Google users" },
+      { "name": "Gemini Advanced", "url": "https://gemini.google.com", "icon": "⭐", "description": "Premium version", "bestFor": "Advanced tasks" }
+    ]
+  },
+  {
+    "id": "ai-13",
+    "question": "What is the future of AI?",
+    "aliases": ["future of ai", "ai future", "where is ai going", "agi", "ai predictions", "ai trends"],
+    "category": "AI Basics",
+    "tags": ["future", "agi", "trends", "predictions"],
+    "answer": "The future of AI is moving towards: 1) Artificial General Intelligence (AGI) - AI that can perform any intellectual task a human can, 2) More capable autonomous agents that can plan and execute complex tasks, 3) Better reasoning and planning abilities with chain-of-thought, 4) Multimodal understanding (text, image, audio, video), 5) Integration into every aspect of life and work, 6) AI in science - drug discovery, climate modeling, 7) Improved safety and alignment research, 8) Regulation and governance frameworks, 9) Smaller, more efficient models for edge devices, 10) AI-human collaboration in creative and professional fields. The timeline for AGI is debated, with predictions ranging from 5-50 years.",
+    "toolLinks": []
+  },
+  {
+    "id": "ai-14",
+    "question": "What are AI agents?",
+    "aliases": ["ai agent", "autonomous ai", "agentic ai", "ai assistants", "intelligent agents"],
+    "category": "AI Basics",
+    "tags": ["ai agents", "autonomous", "agents", "automation"],
+    "answer": "AI agents are autonomous systems that can perceive their environment, reason about it, and take actions to achieve specific goals. They can be simple (like a thermostat) or complex (like autonomous vehicles or advanced AI assistants). Modern AI agents use LLMs for planning, reasoning, and tool use, enabling them to perform complex tasks independently. Examples include AutoGPT, BabyAGI, CrewAI, and LangChain agents. Key characteristics include: autonomy, reactivity (responding to environment), proactivity (goal-directed behavior), and social ability (interacting with other agents or humans).",
+    "toolLinks": [
+      { "name": "LangChain", "url": "https://www.langchain.com", "icon": "⛓️", "description": "Build AI agents", "bestFor": "Developers" },
+      { "name": "CrewAI", "url": "https://crewai.com", "icon": "👥", "description": "Multi-agent systems", "bestFor": "Advanced" }
+    ]
+  },
+  {
+    "id": "ai-15",
+    "question": "Is AI replacing jobs?",
+    "aliases": ["ai job loss", "will ai take jobs", "ai and employment", "automation jobs", "ai job impact"],
+    "category": "AI Basics",
+    "tags": ["jobs", "employment", "automation", "future of work"],
+    "answer": "AI is automating some jobs but creating new ones. It will augment human capabilities rather than fully replace humans in most roles. Jobs that involve routine tasks are most at risk, while roles requiring creativity, emotional intelligence, and complex decision-making will be more secure. AI will create new jobs in AI development, maintenance, ethics, and governance. The key is adaptation and upskilling to work alongside AI. According to research, AI will transform 40% of jobs but also create new roles. The World Economic Forum predicts AI will create 97 million new jobs by 2025 while displacing 85 million. Focus on skills that complement AI.",
+    "toolLinks": []
+  }
+ ,
+  {
+    "id": "ai-16",
+    "question": "How do I start learning AI?",
+    "aliases": ["learn ai", "how to learn ai", "ai learning path", "study ai"],
+    "category": "Learning",
+    "tags": ["learning", "roadmap", "beginners", "courses"],
+    "answer": "Start with Python and basic statistics, then learn machine learning (scikit-learn), followed by deep learning (PyTorch/TensorFlow). Study core topics: linear algebra, calculus, probability, ML algorithms, neural networks, and basic NLP/CV. Build projects, read papers, join communities, and take structured courses (Coursera, fast.ai). Practice by reproducing papers and building end-to-end projects.",
+    "toolLinks": [
+      { "name": "Coursera - Machine Learning", "url": "https://www.coursera.org/learn/machine-learning", "icon": "🎓", "description": "Foundational ML course by Andrew Ng", "bestFor": "Beginners" },
+      { "name": "fast.ai", "url": "https://www.fast.ai", "icon": "⚡", "description": "Practical deep learning courses", "bestFor": "Practical learners" }
+    ]
+  },
+  {
+    "id": "ai-17",
+    "question": "What is model fine-tuning?",
+    "aliases": ["fine tuning", "finetune model", "what is fine tuning", "transfer learning fine-tune"],
+    "category": "Modeling",
+    "tags": ["fine-tuning", "transfer learning", "training"],
+    "answer": "Fine-tuning is adapting a pretrained model to a specific task or dataset by continuing training on task-specific data. It often requires less data and compute than training from scratch and leverages learned representations from large-scale pretraining. Variants include full fine-tuning, head-only training, and parameter-efficient methods like LoRA and adapters.",
+    "toolLinks": []
+  },
+  {
+    "id": "ai-18",
+    "question": "What is prompt engineering and how do I do it?",
+    "aliases": ["prompt engineering", "how to write prompts", "improve prompts", "prompt best practices"],
+    "category": "Usage",
+    "tags": ["prompts", "llm usage", "best practices"],
+    "answer": "Prompt engineering is crafting inputs to LLMs to get better, more reliable outputs. Techniques: be explicit, provide examples (few-shot), set desired format, constrain output length, use step-by-step instructions, and provide context. Iterate and test prompts; use temperature and system messages to control creativity and tone.",
+    "toolLinks": []
+  },
+  {
+    "id": "ai-19",
+    "question": "How can I reduce AI hallucinations?",
+    "aliases": ["reduce hallucinations", "prevent ai lies", "stop hallucinations", "llm hallucination fix"],
+    "category": "Safety",
+    "tags": ["hallucinations", "accuracy", "validation"],
+    "answer": "Reduce hallucinations with retrieval-augmented generation (RAG), grounding responses in citations, constraining models with system prompts, lowering temperature, using verification steps, and fine-tuning on domain data. Add post-processing checks and human-in-the-loop validation for critical outputs.",
+    "toolLinks": []
+  },
+  {
+    "id": "ai-20",
+    "question": "What is bias in AI and how do I mitigate it?",
+    "aliases": ["ai bias", "bias mitigation", "remove bias from models", "fairness in ai"],
+    "category": "Ethics",
+    "tags": ["bias", "fairness", "ethics"],
+    "answer": "Bias arises from training data, modeling choices, and deployment contexts. Mitigate bias by: auditing datasets, collecting representative data, reweighting or augmenting samples, applying fairness-aware algorithms, using explainability tools, and monitoring model behavior in production. Involve diverse stakeholders and perform regular bias testing.",
+    "toolLinks": []
+  },
+  {
+    "id": "ai-21",
+    "question": "How do I evaluate AI models?",
+    "aliases": ["evaluate models", "model evaluation metrics", "how to test models", "model metrics"],
+    "category": "Modeling",
+    "tags": ["evaluation", "metrics", "testing"],
+    "answer": "Use quantitative metrics (accuracy, precision, recall, F1, AUC) for classification; BLEU/ROUGE for generation; perplexity for language models; and task-specific metrics for specialized tasks. Complement automated metrics with human evaluation, error analysis, and real-world A/B testing. Track fairness, robustness, and latency as part of evaluation.",
+    "toolLinks": []
+  },
+  {
+    "id": "ai-22",
+    "question": "What datasets are commonly used in AI research?",
+    "aliases": ["ai datasets", "common datasets", "datasets for ai", "popular ai datasets"],
+    "category": "Data",
+    "tags": ["datasets", "data sources", "research"],
+    "answer": "Popular datasets include ImageNet, COCO, CIFAR, GLUE, SQuAD, Common Crawl, C4, and LAION. Choose datasets that match your task; check licenses and biases. For proprietary or domain data, collect and annotate responsibly.",
+    "toolLinks": []
+  },
+  {
+    "id": "ai-23",
+    "question": "How much does building and running AI cost?",
+    "aliases": ["ai cost", "cost of ai", "how expensive is ai", "training cost"],
+    "category": "Deployment",
+    "tags": ["cost", "pricing", "inference cost", "training cost"],
+    "answer": "Costs vary: research-scale training can cost millions of dollars; fine-tuning and inference costs depend on model size, usage volume, and cloud provider. Use smaller models, batching, quantization, and serverless inference to reduce cost. Monitor usage and optimize architecture for cost-effectiveness.",
+    "toolLinks": []
+  },
+  {
+    "id": "ai-24",
+    "question": "Can I run AI models on my laptop or phone?",
+    "aliases": ["run ai locally", "on-device ai", "ai on laptop", "ai on mobile"],
+    "category": "Deployment",
+    "tags": ["on-device", "edge", "mobile"],
+    "answer": "Yes for small or optimized models. Use lightweight models (TinyBERT, DistilBERT, Llama-2 small), quantization (INT8), pruning, and libraries like ONNX Runtime, TensorFlow Lite, or Core ML. For large models, use remote inference or distillation to create compact versions.",
+    "toolLinks": []
+  },
+  {
+    "id": "ai-25",
+    "question": "What privacy risks does AI pose?",
+    "aliases": ["ai privacy", "privacy concerns ai", "data privacy and ai", "pii in ai"],
+    "category": "Ethics",
+    "tags": ["privacy", "pii", "data protection"],
+    "answer": "Privacy risks include accidental exposure of personal data used during training, model memorization of sensitive information, and leakage via APIs. Mitigate with data minimization, anonymization, differential privacy, access controls, and secure logging. Comply with data protection laws like GDPR.",
+    "toolLinks": []
+  },
+  {
+    "id": "ai-26",
+    "question": "What legal and regulatory issues should I consider?",
+    "aliases": ["ai regulation", "legal issues ai", "compliance ai", "ai laws"],
+    "category": "Legal",
+    "tags": ["regulation", "compliance", "legal"],
+    "answer": "Consider intellectual property, data protection (GDPR, CCPA), liability for model outputs, content licensing, and sector-specific rules (healthcare, finance). Track evolving AI regulations and implement governance, documentation, and risk assessments.",
+    "toolLinks": []
+  },
+  {
+    "id": "ai-27",
+    "question": "How do I deploy an AI model to production?",
+    "aliases": ["deploy model", "model deployment", "put model in production", "serve ai"],
+    "category": "Deployment",
+    "tags": ["deployment", "production", "serving"],
+    "answer": "Deployment options: containerized REST APIs (Docker/Kubernetes), serverless functions, managed model platforms (SageMaker, Vertex AI), or edge deployment for on-device inference. Consider scaling, monitoring, A/B testing, versioning, and rollback strategies.",
+    "toolLinks": []
+  },
+  {
+    "id": "ai-28",
+    "question": "What is explainable AI (XAI)?",
+    "aliases": ["xai", "explainable ai", "model interpretability", "why did the model do that"],
+    "category": "Explainability",
+    "tags": ["xai", "interpretability", "transparency"],
+    "answer": "XAI aims to make model decisions understandable. Techniques include feature importance (SHAP, LIME), saliency maps for images, attention visualization, and surrogate models. Explainability helps debug models, build trust, and satisfy regulatory needs.",
+    "toolLinks": []
+  },
+  {
+    "id": "ai-29",
+    "question": "What are common misconceptions about AI?",
+    "aliases": ["ai myths", "misconceptions about ai", "ai misunderstandings"],
+    "category": "Basics",
+    "tags": ["misconceptions", "myths", "clarify"],
+    "answer": "Common misconceptions: AI \"is conscious\" is false; \"AI always knows\" is false (models can be wrong); \"AI will immediately replace experts\" is exaggerated — AI often augments human work. AI outputs depend on data and design, not innate understanding.",
+    "toolLinks": []
+  },
+  {
+    "id": "ai-30",
+    "question": "When should I fine-tune a model versus using few-shot prompting?",
+    "aliases": ["fine-tune vs prompt", "when to fine-tune", "few-shot vs finetune"],
+    "category": "Modeling",
+    "tags": ["fine-tuning", "prompting", "strategy"],
+    "answer": "Use few-shot prompting when you need quick adaptation without extra training and when data is scarce. Fine-tune when you have labeled data, need consistent domain-specific behavior, or require lower latency/cost at scale. Consider parameter-efficient tuning for resource savings.",
+    "toolLinks": []
+  },
+  {
+    "id": "ai-31",
+    "question": "What is transfer learning?",
+    "aliases": ["transfer learning", "what is transfer learning", "use pretrained models"],
+    "category": "Modeling",
+    "tags": ["transfer learning", "pretrained", "fine-tuning"],
+    "answer": "Transfer learning leverages knowledge from a model trained on one task to help learn another related task more efficiently. Common in vision and NLP: start from a pretrained model and fine-tune on a smaller task dataset.",
+    "toolLinks": []
+  },
+  {
+    "id": "ai-32",
+    "question": "How do I choose the right model for my use case?",
+    "aliases": ["choose model", "pick model", "which model to use", "model selection"],
+    "category": "Modeling",
+    "tags": ["model selection", "criteria", "tradeoffs"],
+    "answer": "Consider task type, accuracy needs, latency, cost, privacy, and data availability. Balance model size vs performance, and prefer simpler models when they meet requirements. Prototype with several candidates and evaluate on realistic data.",
+    "toolLinks": []
+  },
+  {
+    "id": "ai-33",
+    "question": "What are best practices for data labeling?",
+    "aliases": ["data labeling", "labeling best practices", "annotation guidelines", "how to label data"],
+    "category": "Data",
+    "tags": ["labeling", "annotation", "quality"],
+    "answer": "Define clear guidelines, provide examples, perform inter-annotator agreement checks, sample for edge cases, and validate labels with reviews. Use labeling tools (Labelbox, Scale AI) and consider active learning to reduce labeling costs.",
+    "toolLinks": []
+  },
+  {
+    "id": "ai-34",
+    "question": "How do I secure my AI system?",
+    "aliases": ["secure ai", "ai security", "protect ai systems", "adversarial attacks"],
+    "category": "Security",
+    "tags": ["security", "adversarial", "hardening"],
+    "answer": "Secure models with authentication, input validation, rate limiting, monitoring, and anomaly detection. Harden against adversarial inputs, ensure secure storage of models and data, and apply privacy-preserving techniques when handling sensitive data.",
+    "toolLinks": []
+  },
+  {
+    "id": "ai-35",
+    "question": "What are common AI acronyms and terms I should know?",
+    "aliases": ["ai glossary", "ai acronyms", "common terms ai", "ai terms"],
+    "category": "Glossary",
+    "tags": ["glossary", "acronyms", "terms"],
+    "answer": "Common terms: AI (Artificial Intelligence), ML (Machine Learning), DL (Deep Learning), LLM (Large Language Model), NLP (Natural Language Processing), CV (Computer Vision), RL (Reinforcement Learning), RAG (Retrieval-Augmented Generation), API (Application Programming Interface). Learn these as a starting point.",
+    "toolLinks": []
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "id": "ca-1",
+    "question": "What are the best AI coding assistants?",
+    "aliases": ["best ai for coding", "coding assistants", "ai programmers", "best coding ai"],
+    "category": "Coding Assistants",
+    "tags": ["coding", "assistants", "development"],
+    "answer": "Best AI coding assistants: 1) Cursor AI - AI-first code editor with full context, 2) GitHub Copilot - Autocomplete and suggestions, 3) Claude 3.5 - Best for complex coding tasks, 4) ChatGPT - General coding help, 5) Replit AI - Browser-based coding, 6) Tabnine - Team-focused AI, 7) Amazon CodeWhisperer - AWS integration, 8) Sourcegraph Cody - Context-aware coding.",
+    "toolLinks": [
+      { "name": "Cursor", "url": "https://cursor.sh", "icon": "💻", "description": "AI-first code editor", "bestFor": "All developers" },
+      { "name": "GitHub Copilot", "url": "https://github.com/features/copilot", "icon": "🤖", "description": "AI pair programmer", "bestFor": "All developers" },
+      { "name": "Claude", "url": "https://www.anthropic.com/claude", "icon": "🧠", "description": "Complex coding tasks", "bestFor": "Advanced" }
+    ]
+  },
+  {
+    "id": "ca-2",
+    "question": "What is Cursor AI?",
+    "aliases": ["cursor", "cursor ai", "cursor ide", "cursor editor"],
+    "category": "Coding Assistants",
+    "tags": ["cursor", "ide", "code editor"],
+    "answer": "Cursor AI is an AI-first code editor based on VS Code with deep AI integration. It understands your entire codebase and provides features like: AI-powered autocomplete, code generation, debugging assistance, refactoring suggestions, and natural language editing commands. It can answer questions about your code and understand full project context, making it one of the most powerful AI coding tools.",
+    "toolLinks": [
+      { "name": "Cursor", "url": "https://cursor.sh", "icon": "💻", "description": "Download Cursor", "bestFor": "All developers" }
+    ]
+  },
+  {
+    "id": "ca-3",
+    "question": "What is GitHub Copilot?",
+    "aliases": ["github copilot", "copilot", "copilot ai", "github ai"],
+    "category": "Coding Assistants",
+    "tags": ["copilot", "github", "autocomplete"],
+    "answer": "GitHub Copilot is an AI pair programmer powered by OpenAI Codex. It provides real-time code suggestions and autocomplete within your IDE. Copilot can generate entire functions, boilerplate code, and suggest alternative implementations. It supports multiple languages and frameworks, integrates with VS Code, JetBrains, and other editors. Copilot has both individual and business plans.",
+    "toolLinks": [
+      { "name": "GitHub Copilot", "url": "https://github.com/features/copilot", "icon": "🤖", "description": "Try Copilot", "bestFor": "All developers" }
+    ]
+  },
+  {
+    "id": "ca-4",
+    "question": "What are the best AI debugging tools?",
+    "aliases": ["ai debugging", "debugging ai", "ai error detection", "bug fixing ai"],
+    "category": "Coding Assistants",
+    "tags": ["debugging", "bug fixing", "testing"],
+    "answer": "Best AI debugging tools: 1) ChatGPT - Explain errors and suggest fixes, 2) Claude - Complex bug analysis, 3) GitHub Copilot - Suggest fixes in editor, 4) Cursor AI - Context-aware debugging, 5) Tabnine - Bug prediction, 6) SonarQube AI - Code quality with AI suggestions, 7) Sentry AI - Error monitoring with AI insights.",
+    "toolLinks": [
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Debugging assistant", "bestFor": "General" },
+      { "name": "SonarQube", "url": "https://www.sonarqube.org", "icon": "🔍", "description": "Code quality AI", "bestFor": "Quality" }
+    ]
+  }
+]

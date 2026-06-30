@@ -1,0 +1,80 @@
+[
+  {
+    "id": 295,
+    "question": "Best AI tools for startups?",
+    "aliases": ["startup ai", "founder ai", "entrepreneur ai", "business starter ai"],
+    "category": "Business",
+    "tags": ["startups", "business", "entrepreneurs", "founders"],
+    "answer": "Best AI tools for startups: 1) ChatGPT - general tasks, 2) Notion AI - documentation, 3) Zapier AI - automation, 4) HubSpot AI - CRM, 5) Canva AI - design, 6) Otter.ai - meetings, 7) Grammarly - communication, 8) Perplexity - research, 9) GitHub Copilot - development, 10) Tableau GPT - analytics. These tools help startups scale efficiently.",
+    "toolLinks": [
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "General tasks", "bestFor": "All" },
+      { "name": "Notion AI", "url": "https://www.notion.so/product/ai", "icon": "📝", "description": "Documentation", "bestFor": "Teams" },
+      { "name": "Zapier AI", "url": "https://zapier.com/ai", "icon": "⚡", "description": "Automation", "bestFor": "Workflows" }
+    ]
+  },
+  {
+    "id": 296,
+    "question": "Best AI tools for marketing?",
+    "aliases": ["marketing ai", "digital marketing ai", "seo ai", "social media ai"],
+    "category": "Business",
+    "tags": ["marketing", "seo", "social media", "ads"],
+    "answer": "Best AI tools for marketing: 1) Surfer SEO - SEO optimization, 2) Predis.ai - social media, 3) AdCreative.ai - ad creatives, 4) HubSpot AI - marketing automation, 5) Jasper AI - copywriting, 6) ChatGPT - content, 7) Canva AI - design, 8) Grammarly - editing, 9) Perplexity - research, 10) Tableau GPT - analytics. These tools help marketers create effective campaigns.",
+    "toolLinks": [
+      { "name": "Surfer SEO", "url": "https://surferseo.com", "icon": "🌊", "description": "SEO optimization", "bestFor": "SEO" },
+      { "name": "HubSpot AI", "url": "https://www.hubspot.com/ai-tools", "icon": "🏢", "description": "Marketing automation", "bestFor": "CRM" },
+      { "name": "Jasper", "url": "https://www.jasper.ai", "icon": "📝", "description": "Copywriting", "bestFor": "Content" }
+    ]
+  },
+  {
+    "id": 297,
+    "question": "Best AI tools for sales?",
+    "aliases": ["sales ai", "crm ai", "lead generation ai", "sales automation ai"],
+    "category": "Business",
+    "tags": ["sales", "crm", "leads", "revenue"],
+    "answer": "Best AI tools for sales: 1) HubSpot AI - CRM and sales, 2) Salesforce Einstein - sales intelligence, 3) ChatGPT - sales outreach, 4) Claude - sales analysis, 5) Jasper - sales copy, 6) Copy.ai - sales email, 7) Grammarly - communication, 8) Otter.ai - meeting notes. These tools help sales teams close more deals.",
+    "toolLinks": [
+      { "name": "HubSpot AI", "url": "https://www.hubspot.com/ai-tools", "icon": "🏢", "description": "Sales CRM", "bestFor": "Sales" },
+      { "name": "Salesforce Einstein", "url": "https://www.salesforce.com", "icon": "☁️", "description": "Sales intelligence", "bestFor": "Enterprise" },
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Sales outreach", "bestFor": "Outreach" }
+    ]
+  },
+  {
+    "id": 298,
+    "question": "Best AI tools for customer support?",
+    "aliases": ["support ai", "customer service ai", "helpdesk ai", "chatbot ai"],
+    "category": "Business",
+    "tags": ["customer support", "service", "helpdesk", "chatbot"],
+    "answer": "Best AI tools for customer support: 1) Zendesk AI - support tickets, 2) Intercom AI - chatbots, 3) Freshdesk AI - ticket resolution, 4) ChatGPT - support, 5) Claude - support analysis, 6) HubSpot AI - support CRM, 7) Salesforce Service Cloud - enterprise support, 8) Drift - conversational support. These tools improve customer support efficiency.",
+    "toolLinks": [
+      { "name": "Zendesk AI", "url": "https://www.zendesk.com", "icon": "🎯", "description": "Support tickets", "bestFor": "Support" },
+      { "name": "Intercom AI", "url": "https://www.intercom.com", "icon": "💬", "description": "Chatbots", "bestFor": "Chat" },
+      { "name": "Freshdesk AI", "url": "https://freshdesk.com", "icon": "🔄", "description": "Ticket resolution", "bestFor": "Helpdesk" }
+    ]
+  },
+  {
+    "id": 299,
+    "question": "Best AI tools for automation?",
+    "aliases": ["automation ai", "workflow ai", "process automation ai", "business automation"],
+    "category": "Business",
+    "tags": ["automation", "workflows", "productivity", "efficiency"],
+    "answer": "Best AI tools for automation: 1) Zapier AI - workflow automation, 2) Motion - scheduling, 3) Make.com - visual automation, 4) Reclaim.ai - calendar, 5) IFTTT - simple automation, 6) ChatGPT - task automation, 7) Claude - process automation, 8) Notion AI - workflow automation. These tools help automate repetitive tasks.",
+    "toolLinks": [
+      { "name": "Zapier AI", "url": "https://zapier.com/ai", "icon": "⚡", "description": "Workflow automation", "bestFor": "Automation" },
+      { "name": "Motion", "url": "https://www.motion.com", "icon": "⏰", "description": "Scheduling", "bestFor": "Calendar" },
+      { "name": "Make.com", "url": "https://www.make.com", "icon": "🔧", "description": "Visual automation", "bestFor": "Visual" }
+    ]
+  },
+  {
+    "id": 300,
+    "question": "Best AI tools for entrepreneurs?",
+    "aliases": ["entrepreneur ai", "business owner ai", "founder ai tools", "startup founder ai"],
+    "category": "Business",
+    "tags": ["entrepreneurs", "founders", "business", "startups"],
+    "answer": "Best AI tools for entrepreneurs: 1) ChatGPT - research and ideas, 2) Notion AI - planning, 3) Zapier AI - automation, 4) HubSpot AI - CRM, 5) Canva AI - branding, 6) Otter.ai - meetings, 7) Grammarly - communication, 8) Perplexity - research, 9) Gamma - presentations, 10) Tableau GPT - analytics. These tools help entrepreneurs build and scale their businesses.",
+    "toolLinks": [
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Research and ideas", "bestFor": "Entrepreneurs" },
+      { "name": "Notion AI", "url": "https://www.notion.so/product/ai", "icon": "📝", "description": "Planning", "bestFor": "Business" },
+      { "name": "HubSpot AI", "url": "https://www.hubspot.com/ai-tools", "icon": "🏢", "description": "CRM", "bestFor": "Sales" }
+    ]
+  }
+]

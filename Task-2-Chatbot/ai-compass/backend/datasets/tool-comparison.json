@@ -1,0 +1,74 @@
+[
+  {
+    "id": "comp-1",
+    "question": "ChatGPT vs Claude - Which is better?",
+    "aliases": ["chatgpt vs claude", "claude vs chatgpt", "compare chatgpt and claude", "which is better chatgpt or claude", "chatgpt or claude"],
+    "category": "Tool Comparison",
+    "tags": ["chatgpt", "claude", "comparison", "which is better"],
+    "answer": "ChatGPT vs Claude comparison: ChatGPT (OpenAI) is best for versatility, plugins, image generation (DALL-E), and general tasks. It has a larger ecosystem and more integrations. Claude (Anthropic) is best for reasoning, long context (200K tokens), coding, and complex analysis. Claude excels at nuanced understanding and creative writing. Choose ChatGPT for everyday tasks and plugins, choose Claude for complex reasoning and long-form analysis. Both are excellent but excel in different areas.",
+    "toolLinks": [
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Versatile AI", "bestFor": "General tasks" },
+      { "name": "Claude", "url": "https://www.anthropic.com/claude", "icon": "🧠", "description": "Advanced reasoning", "bestFor": "Complex tasks" }
+    ]
+  },
+  {
+    "id": "comp-2",
+    "question": "Gemini vs ChatGPT - Which is better?",
+    "aliases": ["gemini vs chatgpt", "chatgpt vs gemini", "compare gemini and chatgpt", "which is better gemini or chatgpt", "gemini or chatgpt"],
+    "category": "Tool Comparison",
+    "tags": ["gemini", "chatgpt", "comparison", "which is better"],
+    "answer": "Gemini vs ChatGPT comparison: Gemini (Google) integrates deeply with Google Workspace (Gmail, Docs, Drive), has a 2M token context window, and multimodal capabilities. ChatGPT (OpenAI) has more plugins, better general capabilities, and image generation. Gemini is better for Google users and document analysis. ChatGPT is better for versatility and creative tasks. Choose Gemini for Google integration, choose ChatGPT for broader functionality.",
+    "toolLinks": [
+      { "name": "Gemini", "url": "https://gemini.google.com", "icon": "✨", "description": "Google integration", "bestFor": "Google users" },
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Versatile", "bestFor": "General tasks" }
+    ]
+  },
+  {
+    "id": "comp-3",
+    "question": "Cursor vs GitHub Copilot - Which is better?",
+    "aliases": ["cursor vs copilot", "copilot vs cursor", "compare cursor and copilot", "which is better cursor or copilot", "cursor or copilot"],
+    "category": "Tool Comparison",
+    "tags": ["cursor", "copilot", "comparison", "coding"],
+    "answer": "Cursor vs GitHub Copilot: GitHub Copilot integrates with VS Code, is easier to start, great for real-time code suggestions. Cursor is a full AI-first code editor with superior context understanding, can edit multiple files, better for complex refactoring. Copilot is better for beginners and quick suggestions. Cursor is better for professionals who spend hours coding and need deep context awareness. Both are excellent but serve different needs.",
+    "toolLinks": [
+      { "name": "GitHub Copilot", "url": "https://github.com/features/copilot", "icon": "🤖", "description": "VS Code integration", "bestFor": "Beginners" },
+      { "name": "Cursor", "url": "https://cursor.sh", "icon": "⌨️", "description": "AI-first IDE", "bestFor": "Professionals" }
+    ]
+  },
+  {
+    "id": "comp-4",
+    "question": "Midjourney vs DALL-E - Which is better?",
+    "aliases": ["midjourney vs dall-e", "dall-e vs midjourney", "compare midjourney and dall-e", "which is better midjourney or dall-e", "midjourney or dall-e"],
+    "category": "Tool Comparison",
+    "tags": ["midjourney", "dall-e", "comparison", "image generation"],
+    "answer": "Midjourney vs DALL-E: Midjourney excels at artistic and photorealistic images with better composition and aesthetics. DALL-E 3 has superior prompt understanding, text rendering in images, and is more user-friendly (available in ChatGPT). Midjourney is known for creative, stylized outputs and a community-driven Discord interface. Choose Midjourney for art and creative projects, choose DALL-E for precision and text in images.",
+    "toolLinks": [
+      { "name": "Midjourney", "url": "https://www.midjourney.com", "icon": "🎨", "description": "Artistic images", "bestFor": "Creative art" },
+      { "name": "DALL-E 3", "url": "https://openai.com/dall-e-3", "icon": "✨", "description": "Precise images", "bestFor": "Text rendering" }
+    ]
+  },
+  {
+    "id": "comp-5",
+    "question": "Runway vs Pika - Which is better?",
+    "aliases": ["runway vs pika", "pika vs runway", "compare runway and pika", "which is better runway or pika", "runway or pika"],
+    "category": "Tool Comparison",
+    "tags": ["runway", "pika", "comparison", "video generation"],
+    "answer": "Runway vs Pika: Runway ML offers professional video editing features, higher quality, and more control. Pika Labs is simpler and faster for generating short clips from text prompts. Runway has more features for professionals including video-to-video editing, inpainting, and advanced controls. Pika is purely focused on text-to-video generation. Choose Runway for professional projects, choose Pika for quick experimentation.",
+    "toolLinks": [
+      { "name": "Runway ML", "url": "https://runwayml.com", "icon": "🎬", "description": "Professional video", "bestFor": "Professionals" },
+      { "name": "Pika Labs", "url": "https://pika.art", "icon": "⚡", "description": "Quick video", "bestFor": "Quick content" }
+    ]
+  },
+  {
+    "id": "comp-6",
+    "question": "Perplexity vs ChatGPT - Which is better?",
+    "aliases": ["perplexity vs chatgpt", "chatgpt vs perplexity", "compare perplexity and chatgpt", "which is better perplexity or chatgpt", "perplexity or chatgpt"],
+    "category": "Tool Comparison",
+    "tags": ["perplexity", "chatgpt", "comparison", "research"],
+    "answer": "Perplexity vs ChatGPT: Perplexity AI is specialized for research with cited answers from web sources, excellent for fact-checking and academic research. ChatGPT is a general-purpose assistant with broader capabilities, plugins, and creative tasks. Perplexity is better for research and accurate information with citations. ChatGPT is better for creative tasks, coding, and general conversations. Choose Perplexity for research, choose ChatGPT for versatility.",
+    "toolLinks": [
+      { "name": "Perplexity AI", "url": "https://www.perplexity.ai", "icon": "🔍", "description": "Cited research", "bestFor": "Research" },
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Versatile", "bestFor": "General tasks" }
+    ]
+  }
+]

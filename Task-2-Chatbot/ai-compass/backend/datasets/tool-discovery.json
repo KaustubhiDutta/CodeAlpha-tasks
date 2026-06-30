@@ -1,0 +1,246 @@
+[
+  {
+    "id": "td-1",
+    "question": "What are the best AI tools overall?",
+    "aliases": ["best ai tools", "top ai tools", "ai tools list", "popular ai tools"],
+    "category": "Tool Discovery",
+    "tags": ["best", "overall", "popular"],
+    "answer": "The best AI tools across categories include: 1) ChatGPT - Conversational AI, 2) Claude - Advanced reasoning, 3) Cursor - AI coding, 4) Midjourney - Image generation, 5) Runway - Video generation, 6) Perplexity - Research, 7) Notion AI - Productivity, 8) Grammarly - Writing. The best tool depends on your specific needs, budget, and use case.",
+    "toolLinks": [
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Best overall AI assistant", "bestFor": "General" },
+      { "name": "Claude", "url": "https://www.anthropic.com/claude", "icon": "🧠", "description": "Best for reasoning", "bestFor": "Analysis" },
+      { "name": "Cursor", "url": "https://cursor.sh", "icon": "💻", "description": "Best for coding", "bestFor": "Developers" }
+    ]
+  },
+  {
+    "id": "td-2",
+    "question": "What are the best free AI tools?",
+    "aliases": ["free ai tools", "ai tools free", "no cost ai", "best free ai"],
+    "category": "Tool Discovery",
+    "tags": ["free", "no cost", "budget"],
+    "answer": "Best free AI tools: 1) ChatGPT (Free tier) - Conversational AI, 2) Perplexity AI - Research with citations, 3) Claude (Free tier) - Reasoning assistant, 4) Gemini (Free tier) - Google's AI, 5) Stable Diffusion - Open-source image generation, 6) Notion AI (Limited) - Note-taking, 7) Grammarly (Free) - Writing assistance. Each tool has free tiers with varying limitations.",
+    "toolLinks": [
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Free AI assistant", "bestFor": "General" },
+      { "name": "Perplexity AI", "url": "https://www.perplexity.ai", "icon": "🔍", "description": "Free research AI", "bestFor": "Research" },
+      { "name": "Claude", "url": "https://www.anthropic.com/claude", "icon": "🧠", "description": "Free reasoning AI", "bestFor": "Analysis" }
+    ]
+  },
+  {
+    "id": "td-3",
+    "question": "What are the best AI tools for students?",
+    "aliases": ["ai for students", "student ai tools", "ai education tools", "best ai for school"],
+    "category": "Tool Discovery",
+    "tags": ["students", "education", "learning"],
+    "answer": "Best AI tools for students: 1) ChatGPT - Research and writing, 2) Perplexity AI - Academic research with citations, 3) Grammarly - Essay editing, 4) Notion AI - Note-taking and organization, 5) Quizlet - Flashcard generation, 6) Speechify - Text-to-speech for studying, 7) Otter.ai - Lecture transcription, 8) Midjourney - Visual projects.",
+    "toolLinks": [
+      { "name": "Perplexity AI", "url": "https://www.perplexity.ai", "icon": "🔍", "description": "Research with citations", "bestFor": "Research" },
+      { "name": "Notion AI", "url": "https://www.notion.so", "icon": "📝", "description": "Notes and organization", "bestFor": "Organization" },
+      { "name": "Grammarly", "url": "https://www.grammarly.com", "icon": "📖", "description": "Writing assistant", "bestFor": "Writing" }
+    ]
+  },
+  {
+    "id": "td-4",
+    "question": "What are the best AI tools for businesses?",
+    "aliases": ["business ai tools", "ai for business", "enterprise ai", "best ai for companies"],
+    "category": "Tool Discovery",
+    "tags": ["business", "enterprise", "productivity"],
+    "answer": "Best AI tools for businesses: 1) ChatGPT Enterprise - Conversational AI for teams, 2) Claude Enterprise - Secure reasoning AI, 3) Notion AI - Team knowledge management, 4) Jasper - Marketing content, 5) Synthesia - AI video for marketing, 6) GitHub Copilot - Development acceleration, 7) Zapier AI - Automation, 8) Grammarly Business - Professional writing.",
+    "toolLinks": [
+      { "name": "Notion AI", "url": "https://www.notion.so", "icon": "📝", "description": "Team knowledge base", "bestFor": "Teams" },
+      { "name": "Zapier AI", "url": "https://zapier.com", "icon": "⚡", "description": "Workflow automation", "bestFor": "Automation" }
+    ]
+  }
+  ,
+  {
+    "id": "td-5",
+    "question": "Which AI tools are best for content creators?",
+    "aliases": ["ai for content creators", "content creation tools", "ai content tools"],
+    "category": "Tool Discovery",
+    "tags": ["content", "creators", "marketing"],
+    "answer": "Top AI tools for content creators include Jasper for marketing copy, Copy.ai for short-form content, Descript for audio/video editing and repurposing, Midjourney and DALL·E for images, and Runway for video effects. Choose based on format and workflow integration.",
+    "toolLinks": [
+      { "name": "Jasper", "url": "https://www.jasper.ai", "icon": "✍️", "description": "Marketing and long-form copy", "bestFor": "Marketing" },
+      { "name": "Descript", "url": "https://www.descript.com", "icon": "🎧", "description": "Audio/video editing with AI", "bestFor": "Podcasts/Video" }
+    ]
+  },
+  {
+    "id": "td-6",
+    "question": "What AI tools help designers generate visuals?",
+    "aliases": ["ai design tools", "ai for designers", "image generation tools"],
+    "category": "Tool Discovery",
+    "tags": ["design", "images", "creative"],
+    "answer": "Designers often use Midjourney, DALL·E, Stable Diffusion, and Canva's AI features for concepting and producing visuals. These tools trade off control versus speed—choose based on resolution and licensing needs.",
+    "toolLinks": [
+      { "name": "Midjourney", "url": "https://www.midjourney.com", "icon": "🎨", "description": "Creative image generation", "bestFor": "Concept art" },
+      { "name": "Stable Diffusion", "url": "https://stability.ai", "icon": "🖼️", "description": "Open-source image models", "bestFor": "Customization" }
+    ]
+  },
+  {
+    "id": "td-7",
+    "question": "Which AI tools accelerate software development?",
+    "aliases": ["ai for developers", "coding ai", "developer tools ai"],
+    "category": "Tool Discovery",
+    "tags": ["development", "code", "productivity"],
+    "answer": "Developers benefit from GitHub Copilot for pair-programming, Tabnine for completions, and Codeium for multi-language suggestions. For code search and intelligence, Sourcegraph and Cursor provide powerful context-aware capabilities.",
+    "toolLinks": [
+      { "name": "GitHub Copilot", "url": "https://github.com/features/copilot", "icon": "🤖", "description": "AI pair programmer", "bestFor": "Coding" },
+      { "name": "Cursor", "url": "https://cursor.sh", "icon": "💻", "description": "IDE-first AI for developers", "bestFor": "Productivity" }
+    ]
+  },
+  {
+    "id": "td-8",
+    "question": "What AI tools are best for research and analysis?",
+    "aliases": ["ai research tools", "research assistants ai", "ai for research"],
+    "category": "Tool Discovery",
+    "tags": ["research", "analysis", "academic"],
+    "answer": "Perplexity, Elicit, and Connected Papers are excellent for literature discovery and summarization. For deeper data analysis, tools like DataRobot and H2O.ai help automate modeling and interpretation.",
+    "toolLinks": [
+      { "name": "Perplexity", "url": "https://www.perplexity.ai", "icon": "🔍", "description": "Conversational research assistant", "bestFor": "Discovery" },
+      { "name": "Elicit", "url": "https://elicit.org", "icon": "📚", "description": "Literature review automation", "bestFor": "Academic" }
+    ]
+  },
+  {
+    "id": "td-9",
+    "question": "How do I choose between open-source and commercial AI tools?",
+    "aliases": ["open source vs commercial ai", "choose ai tools", "ai tool selection"],
+    "category": "Tool Discovery",
+    "tags": ["comparison", "open-source", "commercial"],
+    "answer": "Choose open-source tools when you need customization, self-hosting, or lower long-term cost. Choose commercial tools for managed infrastructure, reliability, support, and faster time-to-value. Consider licensing, data privacy, and integration needs.",
+    "toolLinks": [
+      { "name": "Stable Diffusion", "url": "https://stability.ai", "icon": "🧩", "description": "Open-source image models", "bestFor": "Customization" },
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Managed conversational AI", "bestFor": "SaaS convenience" }
+    ]
+  },
+  {
+    "id": "td-10",
+    "question": "What are affordable AI tools for small businesses?",
+    "aliases": ["ai for small business", "cheap ai tools", "budget ai tools"],
+    "category": "Tool Discovery",
+    "tags": ["small business", "budget", "cost"],
+    "answer": "Affordable options include ChatGPT's lower tiers, Canva Pro (for visual content), Mailchimp's AI features for marketing, and Zapier for automation. Many providers offer scaled pricing for SMBs—evaluate feature-to-cost ratio.",
+    "toolLinks": [
+      { "name": "Canva", "url": "https://www.canva.com", "icon": "🖌️", "description": "Design + AI features", "bestFor": "Marketing" },
+      { "name": "Mailchimp", "url": "https://mailchimp.com", "icon": "📧", "description": "Email marketing with AI", "bestFor": "Marketing" }
+    ]
+  },
+  {
+    "id": "td-11",
+    "question": "Which AI tools help with audio and speech tasks?",
+    "aliases": ["audio ai tools", "speech ai", "transcription ai"],
+    "category": "Tool Discovery",
+    "tags": ["audio", "speech", "transcription"],
+    "answer": "Otter.ai and Rev provide transcription, Descript offers editing and overdub, and ElevenLabs offers high-quality synthetic voices. Choose based on accuracy, languages supported, and editing capabilities.",
+    "toolLinks": [
+      { "name": "Otter.ai", "url": "https://otter.ai", "icon": "📝", "description": "Transcription and notes", "bestFor": "Meetings" },
+      { "name": "ElevenLabs", "url": "https://elevenlabs.com", "icon": "🔊", "description": "High-quality voice synthesis", "bestFor": "Narration" }
+    ]
+  },
+  {
+    "id": "td-12",
+    "question": "What tools help automate workflows with AI?",
+    "aliases": ["ai workflow automation", "automation tools ai", "ai for automation"],
+    "category": "Tool Discovery",
+    "tags": ["automation", "workflow", "integration"],
+    "answer": "Zapier, Make (formerly Integromat), and n8n can connect AI services to automate tasks. Microsoft Power Automate and Google Apps Script also let teams embed AI into existing workflows.",
+    "toolLinks": [
+      { "name": "Zapier", "url": "https://zapier.com", "icon": "⚡", "description": "Connects apps with automation", "bestFor": "Non-developers" },
+      { "name": "n8n", "url": "https://n8n.io", "icon": "🔗", "description": "Open-source workflow automation", "bestFor": "Self-hosting" }
+    ]
+  },
+  {
+    "id": "td-13",
+    "question": "Which AI tools offer strong data privacy and enterprise controls?",
+    "aliases": ["enterprise ai tools", "ai privacy tools", "secure ai"],
+    "category": "Tool Discovery",
+    "tags": ["enterprise", "security", "privacy"],
+    "answer": "Look for offerings like ChatGPT Enterprise, Anthropic Claude Enterprise, and private deployments of open-source models with fine-tuning controls. Evaluate SOC2 compliance, data residency, and access controls when selecting tools.",
+    "toolLinks": [
+      { "name": "ChatGPT Enterprise", "url": "https://openai.com/enterprise", "icon": "🏢", "description": "Enterprise-grade conversational AI", "bestFor": "Security" },
+      { "name": "Anthropic Claude Enterprise", "url": "https://www.anthropic.com", "icon": "🛡️", "description": "Secure reasoning AI", "bestFor": "Compliance" }
+    ]
+  },
+  {
+    "id": "td-14",
+    "question": "Are there AI tools for improving SEO and content ranking?",
+    "aliases": ["ai seo tools", "seo ai", "content ranking ai"],
+    "category": "Tool Discovery",
+    "tags": ["seo", "marketing", "content"],
+    "answer": "Tools like Clearscope, Surfer SEO, and MarketMuse help optimize content for search using AI-driven topic analysis. Combined with AI writing assistants, they speed up content production while aligning with ranking signals.",
+    "toolLinks": [
+      { "name": "Surfer SEO", "url": "https://surferseo.com", "icon": "🔎", "description": "Content optimization with AI", "bestFor": "SEO" },
+      { "name": "MarketMuse", "url": "https://marketmuse.com", "icon": "📈", "description": "Topic modeling for content", "bestFor": "Content strategy" }
+    ]
+  },
+  {
+    "id": "td-15",
+    "question": "Which AI tools help evaluate and compare other AI tools?",
+    "aliases": ["compare ai tools", "ai tool comparison", "tool benchmarking ai"],
+    "category": "Tool Discovery",
+    "tags": ["comparison", "evaluation", "benchmark"],
+    "answer": "Websites like G2, Product Hunt, and Capterra aggregate user reviews, while benchmarking projects and open communities publish model comparisons. Use trial runs and checklists focused on latency, accuracy, privacy, and cost.",
+    "toolLinks": [
+      { "name": "G2", "url": "https://g2.com", "icon": "⭐", "description": "User reviews and comparisons", "bestFor": "Reviews" },
+      { "name": "Product Hunt", "url": "https://www.producthunt.com", "icon": "🚀", "description": "New tools and launches", "bestFor": "Discovery" }
+    ]
+  },
+  {
+    "id": "td-16",
+    "question": "What are common licensing and copyright considerations for AI-generated content?",
+    "aliases": ["ai licensing", "copyright ai content", "ai legal issues"],
+    "category": "Tool Discovery",
+    "tags": ["legal", "licensing", "copyright"],
+    "answer": "Licensing varies: some tools provide commercial use rights, others restrict usage. Check model and dataset licenses (e.g., open-source model terms), and ensure you have rights for training data and generated outputs before commercial use.",
+    "toolLinks": [
+      { "name": "OpenAI Usage Policies", "url": "https://openai.com/policies/usage-policies", "icon": "📜", "description": "Guidance on allowed use", "bestFor": "Policy" },
+      { "name": "Creative Commons", "url": "https://creativecommons.org", "icon": "©️", "description": "Licensing reference", "bestFor": "Licenses" }
+    ]
+  },
+  {
+    "id": "td-17",
+    "question": "Which AI tools are best for customer support automation?",
+    "aliases": ["ai customer support", "support chatbot tools", "ai for helpdesk"],
+    "category": "Tool Discovery",
+    "tags": ["support", "chatbot", "customer service"],
+    "answer": "Freshdesk with AI, Zendesk's AI features, and Intercom offer strong customer support automation. For advanced conversational experiences, combine a conversational model (ChatGPT/Claude) with retrieval-augmented knowledge bases.",
+    "toolLinks": [
+      { "name": "Intercom", "url": "https://www.intercom.com", "icon": "💬", "description": "Conversational support platform", "bestFor": "Customer messaging" },
+      { "name": "Zendesk", "url": "https://www.zendesk.com", "icon": "🎟️", "description": "Support and ticketing with AI", "bestFor": "Helpdesk" }
+    ]
+  },
+  {
+    "id": "td-18",
+    "question": "What tools exist for prompt engineering and prompt testing?",
+    "aliases": ["prompt engineering tools", "test prompts", "prompt playgrounds"],
+    "category": "Tool Discovery",
+    "tags": ["prompting", "tools", "testing"],
+    "answer": "Prompt playgrounds like OpenAI Playground, Anthropic's console, and third-party tools such as Promptable and Flowise help iterate prompts, manage templates, and test prompts across models.",
+    "toolLinks": [
+      { "name": "OpenAI Playground", "url": "https://platform.openai.com/playground", "icon": "🧪", "description": "Test prompts and models", "bestFor": "Experimentation" },
+      { "name": "Promptable", "url": "https://promptable.ai", "icon": "⚙️", "description": "Prompt management and testing", "bestFor": "Teams" }
+    ]
+  },
+  {
+    "id": "td-19",
+    "question": "Are there marketplaces to discover new AI tools and plugins?",
+    "aliases": ["ai marketplaces", "discover ai tools", "ai plugins marketplace"],
+    "category": "Tool Discovery",
+    "tags": ["marketplace", "discovery", "plugins"],
+    "answer": "Yes—Product Hunt, Hugging Face Model Hub, and the OpenAI plugin directory are great places to discover new AI tools and plugins. They provide community ratings, descriptions, and links to try or install.",
+    "toolLinks": [
+      { "name": "Hugging Face", "url": "https://huggingface.co", "icon": "🧠", "description": "Model hub and community", "bestFor": "Models" },
+      { "name": "OpenAI Plugins", "url": "https://platform.openai.com/docs/plugins", "icon": "🔌", "description": "Plugin ecosystem for models", "bestFor": "Extensions" }
+    ]
+  },
+  {
+    "id": "td-20",
+    "question": "How can I trial multiple AI tools safely and cheaply?",
+    "aliases": ["trial ai tools", "test ai tools", "try ai tools"],
+    "category": "Tool Discovery",
+    "tags": ["trial", "testing", "cost"],
+    "answer": "Use free tiers, short trials, and community editions. Leverage sandbox accounts, mock data, and cost monitoring. Try multiple tools on a single small project to compare accuracy, latency, and integration effort before committing.",
+    "toolLinks": [
+      { "name": "Product Hunt", "url": "https://www.producthunt.com", "icon": "🚀", "description": "Discover new tools and trials", "bestFor": "Discovery" },
+      { "name": "G2", "url": "https://g2.com", "icon": "⭐", "description": "Compare trials and reviews", "bestFor": "Research" }
+    ]
+  }
+]

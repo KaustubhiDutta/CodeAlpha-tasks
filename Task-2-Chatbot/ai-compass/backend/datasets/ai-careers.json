@@ -1,0 +1,80 @@
+[
+  {
+    "id": "career-1",
+    "question": "Careers in AI?",
+    "aliases": ["ai careers", "jobs", "career paths", "employment", "ai jobs", "work in ai"],
+    "category": "AI Careers",
+    "tags": ["careers", "jobs", "paths", "employment"],
+    "answer": "Top AI careers in 2026: 1) AI Engineer - builds AI systems and deploys models, 2) Machine Learning Engineer - develops ML models and pipelines, 3) Data Scientist - analyzes data and builds predictive models, 4) Prompt Engineer - crafts AI prompts for optimal outputs, 5) AI Researcher - advances AI research, 6) AI Product Manager - leads AI product development, 7) AI Consultant - advises businesses on AI adoption, 8) Computer Vision Engineer - builds vision systems, 9) NLP Engineer - develops language models, 10) AI Ethics Specialist - ensures responsible AI, 11) MLOps Engineer - manages ML infrastructure, 12) Robotics Engineer - builds autonomous systems. These careers are in high demand with competitive salaries.",
+    "toolLinks": []
+  },
+  {
+    "id": "career-2",
+    "question": "AI Engineer roadmap?",
+    "aliases": ["ai engineer", "roadmap", "career path", "skills", "become ai engineer", "how to become ai engineer"],
+    "category": "AI Careers",
+    "tags": ["ai engineer", "roadmap", "skills", "path"],
+    "answer": "AI Engineer Roadmap: 1) Python programming fundamentals (3 months) - Master Python, data structures, and algorithms, 2) Mathematics - linear algebra, calculus, statistics, probability (2 months), 3) Machine Learning - supervised, unsupervised, reinforcement learning, ML algorithms (3 months), 4) Deep Learning - neural networks, CNNs, RNNs, Transformers (3 months), 5) MLOps - model deployment, monitoring, and maintenance (3 months), 6) Cloud platforms - AWS, GCP, Azure with ML services (2 months), 7) Build projects - portfolio with 3-5 projects (ongoing), 8) Stay updated - research papers, conferences (ongoing). Total: 16-24 months for job-ready skills.",
+    "toolLinks": [
+      { "name": "Coursera", "url": "https://www.coursera.org", "icon": "📚", "description": "AI courses", "bestFor": "Learning" },
+      { "name": "AWS", "url": "https://aws.amazon.com", "icon": "☁️", "description": "Cloud ML", "bestFor": "Deployment" }
+    ]
+  },
+  {
+    "id": "career-3",
+    "question": "ML Engineer roadmap?",
+    "aliases": ["ml engineer", "machine learning engineer", "roadmap", "career path", "become ml engineer"],
+    "category": "AI Careers",
+    "tags": ["ml engineer", "roadmap", "skills", "path"],
+    "answer": "ML Engineer Roadmap: 1) Python & SQL (3 months) - Programming and data manipulation, 2) Statistics & Probability (2 months) - Statistical concepts, hypothesis testing, 3) ML Algorithms - supervised, unsupervised, gradient boosting (3 months), 4) Deep Learning - neural networks, CNNs, RNNs (3 months), 5) MLOps - model deployment, versioning, monitoring (3 months), 6) Data Engineering - pipelines, ETL, data warehousing (2 months), 7) Cloud platforms - AWS, GCP, Azure (2 months), 8) Build projects - end-to-end ML pipeline portfolio (ongoing). Total: 18-24 months.",
+    "toolLinks": [
+      { "name": "Coursera", "url": "https://www.coursera.org", "icon": "📚", "description": "ML courses", "bestFor": "Learning" },
+      { "name": "Kaggle", "url": "https://www.kaggle.com", "icon": "🏆", "description": "Practice", "bestFor": "Projects" }
+    ]
+  },
+  {
+    "id": "career-4",
+    "question": "Prompt Engineer roadmap?",
+    "aliases": ["prompt engineer", "roadmap", "career path", "prompting", "llm engineer"],
+    "category": "AI Careers",
+    "tags": ["prompt engineer", "roadmap", "skills", "path"],
+    "answer": "Prompt Engineer Roadmap: 1) Understand LLMs - how they work, architectures, and training (1 month), 2) Learn prompt techniques - zero-shot, few-shot, chain-of-thought, ReAct (2 months), 3) Practice with different models - ChatGPT, Claude, Gemini, Llama (ongoing), 4) Learn RAG - retrieval-augmented generation, vector databases (2 months), 5) Build prompt templates - for various tasks and domains (2 months), 6) Evaluate prompts - metrics, A/B testing, performance measurement (1 month), 7) Learn Python - for automation and tooling (3 months), 8) Stay updated - new techniques, research papers (ongoing). Total: 12-18 months.",
+    "toolLinks": [
+      { "name": "ChatGPT", "url": "https://chat.openai.com", "icon": "💬", "description": "Practice prompts", "bestFor": "Beginners" },
+      { "name": "Claude", "url": "https://www.anthropic.com/claude", "icon": "🧠", "description": "Advanced prompting", "bestFor": "Advanced" }
+    ]
+  },
+  {
+    "id": "career-5",
+    "question": "Data Scientist roadmap?",
+    "aliases": ["data scientist", "roadmap", "career path", "data science", "become data scientist"],
+    "category": "AI Careers",
+    "tags": ["data scientist", "roadmap", "skills", "path"],
+    "answer": "Data Scientist Roadmap: 1) Python & SQL (3 months) - Programming and data querying, 2) Statistics & Probability (2 months) - Statistical inference, distributions, 3) Data Visualization - Tableau, Matplotlib, Seaborn (2 months), 4) Machine Learning - algorithms, model evaluation (3 months), 5) Big Data - Spark, Hadoop, distributed computing (2 months), 6) Deep Learning - neural networks, NLP (3 months), 7) Business Intelligence - analytics, storytelling (2 months), 8) Build projects - portfolio with real-world datasets (ongoing). Total: 18-24 months.",
+    "toolLinks": [
+      { "name": "Coursera", "url": "https://www.coursera.org", "icon": "📚", "description": "Data science courses", "bestFor": "Learning" },
+      { "name": "Kaggle", "url": "https://www.kaggle.com", "icon": "🏆", "description": "Practice", "bestFor": "Projects" }
+    ]
+  },
+  {
+    "id": "career-6",
+    "question": "AI salary trends?",
+    "aliases": ["ai salary", "pay", "compensation", "career", "ai pay", "salary ranges"],
+    "category": "AI Careers",
+    "tags": ["salary", "compensation", "pay", "trends"],
+    "answer": "AI salary trends in 2026: 1) AI Engineer - $120K-$220K, 2) ML Engineer - $115K-$200K, 3) Data Scientist - $100K-$180K, 4) Prompt Engineer - $90K-$160K, 5) AI Researcher - $130K-$250K, 6) AI Product Manager - $120K-$190K, 7) Computer Vision Engineer - $110K-$185K, 8) NLP Engineer - $115K-$190K, 9) AI Ethics Specialist - $80K-$140K, 10) MLOps Engineer - $110K-$180K. Salaries vary by location, experience, and company size. Top tech companies and AI startups offer the highest compensation packages, including equity and bonuses. Remote work has become common, with salary adjustments based on location.",
+    "toolLinks": []
+  },
+  {
+    "id": "career-7",
+    "question": "Skills required for AI jobs?",
+    "aliases": ["ai skills", "job skills", "requirements", "career", "ai competencies", "skills needed"],
+    "category": "AI Careers",
+    "tags": ["skills", "requirements", "competencies", "job"],
+    "answer": "Essential AI job skills: 1) Programming - Python, R, SQL, 2) Mathematics - linear algebra, calculus, statistics, 3) Machine Learning - algorithms and models, 4) Deep Learning - neural networks, 5) Data Science - data analysis and visualization, 6) Cloud platforms - AWS, GCP, Azure, 7) MLOps - deployment and monitoring, 8) Communication - explaining AI concepts to non-technical stakeholders, 9) Problem-solving - critical thinking and analytical skills, 10) Continuous learning - staying updated with AI research. Soft skills include collaboration, adaptability, and business acumen. Domain-specific knowledge in healthcare, finance, or manufacturing is valuable.",
+    "toolLinks": [
+      { "name": "Coursera", "url": "https://www.coursera.org", "icon": "📚", "description": "Learn skills", "bestFor": "Learning" },
+      { "name": "Kaggle", "url": "https://www.kaggle.com", "icon": "🏆", "description": "Practice skills", "bestFor": "Projects" }
+    ]
+  }
+]
